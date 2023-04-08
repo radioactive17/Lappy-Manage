@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Mydash</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <link rel='stylesheet' type='text/css' media='screen' href='main.css'> -->
+
+</head>
+
+<body>
+    {% block content %}
+    <div>
+        <h2>Laptop Form</h2>
+        <hr>
+        <div>
+            <p>Laptop Name</p>{{pdata.l_name}}
+        </div>
+        <div>
+            <p>Laptop Rating</p>{{pdata.l_rating}}
+        </div>
+        <div>
+            <p>Laptop Price</p>{{pdata.l_price}}
+        </div>
+        <div>
+            <p>Laptop Model Number</p>{{ddata.l_model_number}}
+        </div>
+
+    </div>
+
+    
+    {% endblock   %}
+
+
+</body> 
+
+</html> 

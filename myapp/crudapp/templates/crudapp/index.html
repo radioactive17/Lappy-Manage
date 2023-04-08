@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Mydash</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <link rel='stylesheet' type='text/css' media='screen' href='main.css'> -->
+
+</head>
+
+<body>
+    <h1>hello</h1>
+    {% block content %}
+
+    <a href="{% url 'crud_page' %}">View Laptops</a>
+
+    <a href="{% url 'create_laptop' %}">Enter Laptop Details</a>
+
+    
+    {% endblock   %}
+
+
+</body>
+
+</html>
