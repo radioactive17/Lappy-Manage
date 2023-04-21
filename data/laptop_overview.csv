@@ -1,0 +1,985 @@
+laptop_id|name|rating|price
+0|ASUS ROG Strix SCAR 17 Core i9 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) G733ZW-LL139WS Gaming Laptop  (17.3 inch, Off Black, 2.90 kg, With MS Office)|5.0|2937
+1|ASUS ROG Strix SCAR 15 Core i9 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) G533ZW-LN136WS Gaming Laptop  (15.6 inch, Off Black, 2.30 kg, With MS Office)|0.0|2874
+2|HP Victus Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 16-e0351AX Gaming Laptop  (16.1 inch, Mica Silver, 2.48 kg, With MS Office)|0.0|1301
+3|Lenovo IdeaPad Gaming 3i Ryzen 7 Octa Core R7-5800H 5th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15ACH6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)|0.0|1096
+4|Lenovo Yoga Slim 7 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 82A300MBIN Thin and Light Laptop  (14 inch, Slate Grey, With MS Office)|0.0|949
+5|Lenovo Yoga Slim 7 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop  (14 inch, Slate Grey, 1.36 kg, With MS Office)|0.0|979
+6|Lenovo Lenovo V15 Celeron Dual Core - (4 GB/256 GB SSD/Windows 10) 82C30053IH Thin and Light Laptop  (15.6 inch, Iron Grey)|3.0|366
+7|Lenovo Yoga 6 Ryzen 7 Octa Core R7-5700U 5th Gen - (16 GB/1 TB SSD/Windows 11 Home) 13ALC6 2 in 1 Laptop  (13.3 inch, Abyss Blue, 1.31 kg, With MS Office)|0.0|1141
+8|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) FX506LH-HN310W Gaming Laptop  (15.6 inch, Black, 2.30 kg)|4.7|812
+9|DELL Inspiron Pentium Silver - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3521 Notebook  (15.6 Inch, Carbon Black, 1.61 Kg, With MS Office)|4.0|412
+10|DELL Inspiron Athlon Dual Core 3050U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3525 Notebook  (15.6 Inch, Carbon Black, 1.68 Kg, With MS Office)|4.2|387
+11|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) XPS 9305 Thin and Light Laptop  (13.4 inch, Platinum Silver, 1.16 kg, With MS Office)|0.0|1870
+12|Lenovo Yoga 7i Ryzen 7 Octa Core R7-5800U 5th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop  (14 inch, Slate Grey, 1.43 kg, With MS Office)|0.0|1240
+13|ASUS Ryzen 7 Dual Core 7th Gen - (16 GB/512 GB HDD/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX3050- 4GB) FA506IC-HN075W Gaming Laptop  (15.6 inch, Black)|0.0|1037
+14|ASUS Ryzen 3 Quad Core 3rd Gen - (8 GB/256 GB SSD/Windows 11 Home) M515DA-BR322WS Laptop  (15.6 inch, Silver, With MS Office)|4.7|461
+15|DELL Inspiron 3511 Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 3511 Laptop  (15.6 inch, Black, 1.83 kg, With MS Office)|0.0|612
+16|ASUS ROG Flow X13 (2021) Ryzen 9 Octa Core Ryzen 9 5900HS 5th Gen - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GV301QH-K6461TS 2 in 1 Gaming Laptop  (13.4 Inch, Black, 1.3 KG, With MS Office)|0.0|1624
+17|MSI GP66 Leopard Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/240 Hz) GP66 Leopard 11UG Gaming Laptop  (15.6 inches, Black, 2.9 kg)|0.0|1978
+18|ASUS Vivobook 15 OLED Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) K513EA-L301WS Laptop  (15.6 inch, Hearty Gold, 1.80 kg kg, With MS Office)|0.0|599
+19|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Grey, 1.37 kg, With MS Office)|4.3|812
+20|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Green, 1.37 kg, With MS Office)|4.3|812
+21|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Blue, 1.37 kg, With MS Office)|4.3|812
+22|DELL G15 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/165 Hz) G15-5511 SE Gaming Laptop  (15.6 inch, Obsidian Black, 2.65 kg, With MS Office)|0.0|1299
+23|DELL Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) G15-5515 Gaming Laptop  (15.6 inch, Grey, 2.57 kg, With MS Office)|4.5|868
+24|Avita SATUS Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) NU14A1INC43PN-MB Laptop  (14.1 Inch, Matt Black)|4.4|274
+25|ASUS Vivobook S14 OLED (2022) Intel EVO Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) S3402ZA-KM501WS Thin and Light Laptop  (14 Inch, Neutral Grey, 1.50 Kg, With MS Office)|4.6|937
+26|ASUS Vivobook S14 OLED (2022) Intel EVO Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) S3402ZA-KM702WS Thin and Light Laptop  (14 inch, Indie Black, 1.50 kg, With MS Office)|0.0|1187
+27|ASUS Zenbook 14 OLED (2022) Intel EVO Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX3402ZA-KM531WS Thin and Light Laptop  (14 inch, Ponder Blue, 1.39 kg, With MS Office)|0.0|1124
+28|ASUS Zenbook 14X (2022) Space edition Intel EVO Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home) UX5401ZAS-KN711WS Thin and Light Laptop  (14 inch, Titanium, 1.40 kg, With MS Office)|0.0|1687
+29|ASUS Vivobook S14 OLED (2022) Intel EVO Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) S3402ZA-KM502WS Thin and Light Laptop  (14 Inch, Indie Black, 1.50 Kg, With MS Office)|4.6|937
+30|ASUS Zenbook 14 OLED (2022) Intel EVO Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX3402ZA-KM731WS Thin and Light Laptop  (14 inch, Ponder Blue, 1.39 kg, With MS Office)|0.0|1312
+31|ASUS Vivobook S14 OLED (2022) Intel EVO Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) S3402ZA-KM701WS Thin and Light Laptop  (14 Inch, Neutral Grey, 1.50 Kg, With MS Office)|0.0|1187
+32|ASUS Zenbook 14X (2022) Space edition Intel EVO Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX5401ZAS-KN521WS Thin and Light Laptop  (14 inch, Titanium, 1.40 kg, With MS Office)|0.0|1437
+33|DELL Vostro 3405 Ryzen 5 Quad Core 3450U - (8 GB/256 GB SSD/Windows 11 Home) Vostro 3405 Thin and Light Laptop  (14 inch, Dune, 1.59 kg, With MS Office)|0.0|537
+34|ASUS Ryzen 7 Hexa Core 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 rts) FA506IC-HN005T Gaming Laptop  (15.6 inch, Graphite Black)|0.0|1006
+35|ASUS Ryzen 9 Octa Core 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX RTX3060-6GB) FA506QM-HN124W Gaming Laptop  (16.6 inch, Graphite Black)|0.0|1337
+36|ASUS Core i5 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) X515JA-BQ511WS Thin and Light Laptop  (15.6 inch, Transparent Silver, With MS Office)|0.0|542
+37|ASUS Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) K513EA-L501TS Laptop  (15.6 inch, Hearty Gold, With MS Office)|0.0|824
+38|ASUS Ryzen 7 Quad Core 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX GTX 1650 4GB Graphics) G713IH-HX020T Gaming Laptop  (17.3 inch, Gray)|0.0|1030
+39|ASUS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) K413EA-EB522WS Thin and Light Laptop  (14 inch, Indie Black, 1.40 kg, With MS Office)|0.0|762
+40|ASUS VivoBook 15 (2021) Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-BQ521WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|5.0|599
+41|DELL G15 Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) G15-5521 SE Gaming Laptop  (15.6 Inch, Obsidian Black, 2.57 kg, With MS Office)|0.0|1737
+42|DELL G15 Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office)|0.0|1099
+43|DELL G15 Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office)|0.0|1599
+44|ASUS Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X515EA-BR312TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|0.0|462
+45|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.65 kg, With MS Office)|0.0|931
+46|DELL G15 Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) G15-5521 SE Gaming Laptop  (15.6 Inch, Obsidian Black, 2.57 kg, With MS Office)|0.0|1468
+47|DELL G15 Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office)|0.0|1312
+48|DELL Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.65 kg, With MS Office)|0.0|868
+49|acer Aspire 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A515-56 Thin and Light Laptop  (15.6 Inch, Pure Silver, 1.65 kg, With MS Office)|4.3|624
+50|ASUS VivoBook Ultra K15 OLED Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) K513EA-L322WS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|0.0|637
+51|ASUS VivoBook 15 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) X515JA-BQ302W Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg)|3.8|387
+52|ASUS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) K513EA-L513WS Laptop  (15.6 inch, Silver, With MS Office)|0.0|849
+53|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 15s-du3519TX Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|0.0|812
+54|HP Pavilion Ryzen 7 Octa Core 5825U - (16 GB/512 GB SSD/Windows 11 Home) 14-EC1008AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|0.0|899
+55|HP Pavilion Ryzen 5 Hexa Core 5625U - (16 GB/512 GB SSD/Windows 11 Home) 14-EC1019AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|0.0|786
+56|ASUS Core i5 11th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX RTX3050-4G) FX516PCZ-HN090T Gaming Laptop  (15.6 inch, White)|0.0|986
+57|acer Celeron Dual Core - (4 GB/256 GB SSD/Windows 11 Home) TMB311-31 Notebook  (11.6 Inch, Black, 1.4 Kg)|0.0|312
+58|acer Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) TMB311-31 Notebook  (11.6 Inch, Black, 1.4 Kg)|0.0|299
+59|acer Nitro 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) AN515-57 Gaming Laptop  (15.6 inch, Shale Black, 2.2 kg)|0.0|812
+60|ASUS VivoBook 14 (2021) Celeron Dual Core - (4 GB/256 GB SSD/Windows 11 Home) X415MA-BV011W Thin and Light Laptop  (14 inch, Transparent Silver, 1.60 kg)|4.1|324
+61|acer Aspire 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A315-58 Thin and Light Laptop  (15.6 Inch, Pure Silver, 1.7 kg, With MS Office)|0.0|623
+62|acer Nitro 5 Core i7 12th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) AN515-58 Gaming Laptop  (15.6 inch, Shale Black, 2.6 kg)|0.0|1374
+63|HP Pavilion Gaming Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) 15-EC2048AX Gaming Laptop  (15.6 Inch, Shadow Black, 1.98 Kg, With MS Office)|0.0|977
+64|HP OMEN Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) 16-B1351TX Laptop  (16.1 inch, Shadow Black, 2.32 kg, With MS Office)|0.0|1624
+65|Lenovo THINKBOOK 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) THINKBOOK 15 Notebook  (15.6 inch, Minral Grey, 1.9 kg)|0.0|674
+66|ASUS Ryzen 5 Quad Core 3rd Gen - (8 GB/512 GB SSD/Windows 11 Home) M515DA-BQ512WS Thin and Light Laptop  (15.6 inch, Transparent Silver, With MS Office)|0.0|561
+67|DELL Inspiron Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3521 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|0.0|461
+68|ASUS Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) K513EA-L501WS Laptop  (15.6 inch, Hearty GOLD, With MS Office)|0.0|831
+69|ASUS Ryzen 7 Quad Core 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RTX3050- 4GB) G513IC-HN023WS Gaming Laptop  (15.6 inch, Gray, With MS Office)|0.0|1119
+70|DELL Vostro 5000 Series Ryzen 5 Quad Core Ryzen 5-5625U - (16 GB/512 GB SSD/Windows 10 Home) Vostro 5625 Thin and Light Laptop  (16 inch, Titan Grey, 1.9 kg, With MS Office)|0.0|861
+71|DELL G15 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050Ti) G15-5511 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.4 kg, With MS Office)|0.0|1156
+72|ASUS TUF Gaming F15 Core i7 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) FX577ZE-HN056W Gaming Laptop  (15.6 inch, Jaeger Gray, 2.20 kg)|0.0|1462
+73|HP Core i3 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) 250 G8 Laptop  (15.6 inch, Dark Ash)|0.0|508
+74|ASUS ROG Strix SCAR 17 Core i9 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) G733ZW-LL139WS Gaming Laptop  (17.3 inch, Off Black, 2.90 kg, With MS Office)|5.0|2937
+75|ASUS ROG Strix SCAR 15 Core i9 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) G533ZW-LN136WS Gaming Laptop  (15.6 inch, Off Black, 2.30 kg, With MS Office)|0.0|2874
+76|HP Victus Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 16-e0351AX Gaming Laptop  (16.1 inch, Mica Silver, 2.48 kg, With MS Office)|0.0|1301
+77|Lenovo IdeaPad Gaming 3i Ryzen 7 Octa Core R7-5800H 5th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15ACH6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)|0.0|1096
+78|Lenovo Yoga Slim 7 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 82A300MBIN Thin and Light Laptop  (14 inch, Slate Grey, With MS Office)|0.0|949
+79|Lenovo Yoga Slim 7 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop  (14 inch, Slate Grey, 1.36 kg, With MS Office)|0.0|979
+80|Lenovo Lenovo V15 Celeron Dual Core - (4 GB/256 GB SSD/Windows 10) 82C30053IH Thin and Light Laptop  (15.6 inch, Iron Grey)|3.0|366
+81|Lenovo Yoga 6 Ryzen 7 Octa Core R7-5700U 5th Gen - (16 GB/1 TB SSD/Windows 11 Home) 13ALC6 2 in 1 Laptop  (13.3 inch, Abyss Blue, 1.31 kg, With MS Office)|0.0|1141
+82|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) FX506LH-HN310W Gaming Laptop  (15.6 inch, Black, 2.30 kg)|4.7|812
+83|DELL Inspiron Pentium Silver - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3521 Notebook  (15.6 Inch, Carbon Black, 1.61 Kg, With MS Office)|4.0|412
+84|DELL Inspiron Athlon Dual Core 3050U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3525 Notebook  (15.6 Inch, Carbon Black, 1.68 Kg, With MS Office)|4.2|387
+85|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) XPS 9305 Thin and Light Laptop  (13.4 inch, Platinum Silver, 1.16 kg, With MS Office)|0.0|1870
+86|Lenovo Yoga 7i Ryzen 7 Octa Core R7-5800U 5th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop  (14 inch, Slate Grey, 1.43 kg, With MS Office)|0.0|1240
+87|ASUS Ryzen 7 Dual Core 7th Gen - (16 GB/512 GB HDD/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX3050- 4GB) FA506IC-HN075W Gaming Laptop  (15.6 inch, Black)|0.0|1037
+88|ASUS Ryzen 3 Quad Core 3rd Gen - (8 GB/256 GB SSD/Windows 11 Home) M515DA-BR322WS Laptop  (15.6 inch, Silver, With MS Office)|4.7|461
+89|ASUS ROG Flow X13 (2021) Ryzen 9 Octa Core Ryzen 9 5900HS 5th Gen - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GV301QH-K6461TS 2 in 1 Gaming Laptop  (13.4 Inch, Black, 1.3 KG, With MS Office)|0.0|1624
+90|MSI GP66 Leopard Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/240 Hz) GP66 Leopard 11UG Gaming Laptop  (15.6 inches, Black, 2.9 kg)|0.0|1978
+91|ASUS Vivobook 15 OLED Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) K513EA-L301WS Laptop  (15.6 inch, Hearty Gold, 1.80 kg kg, With MS Office)|0.0|599
+92|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Grey, 1.37 kg, With MS Office)|4.3|812
+93|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Green, 1.37 kg, With MS Office)|4.3|812
+94|realme Book Prime Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) CloudPro002 Thin and Light Laptop  (14 inch, Blue, 1.37 kg, With MS Office)|4.3|812
+95|DELL G15 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/165 Hz) G15-5511 SE Gaming Laptop  (15.6 inch, Obsidian Black, 2.65 kg, With MS Office)|0.0|1299
+96|DELL Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) G15-5515 Gaming Laptop  (15.6 inch, Grey, 2.57 kg, With MS Office)|4.5|868
+97|Avita SATUS Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) NU14A1INC43PN-MB Laptop  (14.1 Inch, Matt Black)|4.4|274
+98|DELL Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) G15-5515 Gaming Laptop  (15.6 inch, Grey, 2.57 kg, With MS Office)|0.0|1128
+99|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2627TU Thin and Light Laptop  (15.6 Inch, Jet Black, 1.69 Kg, With MS Office)|4.2|512
+100|DELL Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) G15-5515 Gaming Laptop  (15.6 inch, Grey, 2.57 kg, With MS Office)|4.7|924
+101|ASUS VivoBook 14 (2021) Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 11 Home) M415DA-EB712WS Thin and Light Laptop  (14 inch, Transparent Silver, 1.60 kg, With MS Office)|4.7|562
+102|ASUS VivoBook Flip 14 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) TP470EA-EC302WS 2 in 1 Laptop  (14 Inch, Indie Black, 1.50 kg, With MS Office)|0.0|624
+103|ASUS VivoBook 15 (2021) Core i5 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) X515JA-BQ501W Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg)|3.1|537
+104|ASUS Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) BR1100CKA-GJ0722W Laptop  (11.6 Inch, Star Grey, 1.26 Kg)|0.0|312
+105|ASUS Celeron Dual Core - (4 GB/128 GB SSD/Windows 11 Home) BR1100FKA-BP1104W Laptop  (11.6 Inch, Star Grey, 1.40 Kg)|4.0|374
+106|ASUS VivoBook K15 OLED Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA-L711WS Thin and Light Laptop  (15.6 Inch, Hearty Gold, 1.80 Kg, With MS Office)|4.4|812
+107|ASUS VivoBook Flip 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) TP470EA-EC512WS 2 in 1 Laptop  (14 Inch, Indie Black, 1.50 Kg, With MS Office)|0.0|799
+108|ASUS VivoBook K15 OLED Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA-L713WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 Kg, With MS Office)|4.4|812
+109|ASUS VivoBook 15 (2022) Celeron Quad Core - (4 GB/256 GB SSD/Windows 11 Home) X515MA-BR011W Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg)|4.0|337
+110|ASUS VivoBook Flip 14 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) TP470EA-EC312WS 2 in 1 Laptop  (14 Inch, Indie Black, 1.50 kg, With MS Office)|0.0|662
+111|ASUS VivoBook 15 (2021) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-BQ322WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|0.0|487
+112|ASUS VivoBook 14 (2021) Ryzen 7 Quad Core 3700U - (16 GB/512 GB SSD/Windows 11 Home) M415DA-EB512WS Thin and Light Laptop  (14 inch, Transparent Silver, 1.60 kg, With MS Office)|4.7|662
+113|ASUS VivoBook 15 (2021) Core i3 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) X515EA-BR391W Thin and Light Laptop  (15.6 inch, Slate Grey, 1.80 kg)|4.2|437
+114|ASUS VivoBook 15 (2021) Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X515EA-EJ332WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.2|512
+115|HP Pavilion Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 15-eh2024AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|0.0|774
+116|HP Envy Core i9 11th Gen - (32 GB/1 TB SSD/Windows 11 Pro/6 GB Graphics) 15-ep1087TX Laptop  (15.6 inch, Natural Silver, 2.14 kg, With MS Office)|0.0|2602
+117|HP Chromebook Celeron Quad Core - (4 GB/64 GB EMMC Storage/Chrome OS) 14a-ca0504TU Thin and Light Laptop  (14 Inch, Forest Teal, 1.49 Kg)|3.7|343
+118|HP Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) 14a-ca0506TU Thin and Light Laptop  (14 Inch, Mineral Silver, 1.49 Kg)|0.0|343
+119|HP Envy Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Pro/4 GB Graphics) 15-ep1085TX Thin and Light Laptop  (15.6 Inch, Natural Silver, 2.14 Kg, With MS Office)|0.0|2039
+120|HP Pavilion Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 14-EC1003AU Thin and Light Laptop  (14 Inch, Natural Silver, 1.41 Kg, With MS Office)|0.0|687
+121|HP Pavilion Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 15-eh2018AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|0.0|752
+122|HP Pavilion Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 15-eh2018AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|0.0|752
+123|HP Pavilion Ryzen 5 Hexa Core 5625U - (8 GB/512 GB SSD/Windows 11 Home) 14-EC1003AU Thin and Light Laptop  (14 Inch, Natural Silver, 1.41 Kg, With MS Office)|0.0|687
+124|HP Envy Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Pro/4 GB Graphics) 15-ep1085TX Thin and Light Laptop  (15.6 Inch, Natural Silver, 2.14 Kg, With MS Office)|0.0|2039
+125|DELL Inspiron 3000 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 3511 Thin and Light Laptop  (15.6 Inch, Black, 1.8 Kgs, With MS Office)|3.8|556
+126|ASUS Vivobook 15 Ryzen 7 Quad Core AMD R7-3700U - (16 GB/512 GB SSD/Windows 11 Home) M515DA-BQ722WS Laptop  (15.6 inch, Transparent Silver, 1.8 kg, With MS Office)|4.0|686
+127|ASUS ExpertBook Core i3 11th Gen - (4 GB/256 GB SSD/DOS) P1511CEA-BQ1758 Business Laptop  (15.6 inch, Slate Grey, 1.80 kg)|0.0|449
+128|Lenovo IdeaPad Gaming 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15IHU6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)|0.0|912
+129|HP Pavilion x360 Convertible Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14-dy0207TU Thin and Light Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|0.0|699
+130|HP Snapdragon 7c Gen 2 - (8 GB/128 GB EMMC Storage/Windows 11 Home) 14-ed0007qu Laptop  (14 Inch, Natural Silver, 1.25 Kg, With MS Office)|0.0|487
+131|Lenovo Ideapad Gaming 3 Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15ACH6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg)|0.0|974
+132|Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15ACH6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)|5.0|874
+133|Lenovo IdeaPad Flex 5 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14ITL05 2 in 1 Laptop  (14 Inch, Graphite Grey, With MS Office)|0.0|737
+134|Lenovo IdeaPad 1 Celeron Dual Core - (4 GB/256 GB SSD/Windows 11 Home) 11IGL05 Thin and Light Laptop  (11.6 Inch, Platinum Grey, With MS Office)|3.7|299
+135|HP Pavilion x360 Convertible Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-dy1047TU Thin and Light Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|0.0|1099
+136|Lenovo IdeaPad Flex 5 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 14ALC05 2 in 1 Laptop  (14 Inch, Graphite Grey, With MS Office)|0.0|724
+137|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14ITL6 Thin and Light Laptop  (14 Inch, Arctic Grey, With MS Office)|4.6|537
+138|HP Pavilion x360 Convertible Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-dy1048TU Thin and Light Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|0.0|939
+139|Lenovo Yoga 7 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL5 2 in 1 Laptop  (14 Inch, Slate Grey, With MS Office)|0.0|1249
+140|DELL Inspiron Ryzen 5 Dual Core 3450U - (8 GB/512 GB SSD/Windows 11 Home) INSPIRON 3515 Thin and Light Laptop  (15.6 Inch, Carbon Black, 1.8 kg, With MS Office)|0.0|584
+141|DELL Vostro Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) vostro 3510 icl Thin and Light Laptop  (15.6 inch, Titan Gray, 1.8 Kg, With MS Office)|3.9|512
+142|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s-dq2606tu Thin and Light Laptop  (14 Inch, Natural Silver, 1.46 Kg, With MS Office)|4.3|537
+143|DELL Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) INSPIRON 3515 Thin and Light Laptop  (15.6 inch, Carbon Black, 1.8 kg, With MS Office)|4.1|512
+144|DELL Core i3 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3510 Thin and Light Laptop  (15.6 inch, Titan Gray, 1.8 kg, With MS Office)|4.2|512
+145|HP OMEN Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics) 16-B1361TX Laptop  (16.1 inch, Shadow Black, 2.32 kg, With MS Office)|0.0|1943
+146|ASUS Commercial Series Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) P2451FA Business Laptop  (14 inch, Black)|0.0|487
+147|HP OMEN Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti) 16-C0138AX Gaming Laptop  (16.1 Inch, Mica Silver, 2.32 Kg, With MS Office)|0.0|1306
+148|HP OMEN Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 11 Home/AMD Radeon RX 6600M) 16-C0140AX Gaming Laptop  (16.1 inch, Mica Silver, 2.32 Kg, With MS Office)|0.0|1568
+149|HP Ryzen 3 Dual Core - (8 GB/1 TB HDD/Windows 11 Home) 255 G8 Laptop  (15.6 inch, Dark Ash)|4.1|474
+150|ASUS ROG Strix G15 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050/144 Hz) G513IC-HN025W Gaming Laptop  (15.6 Inch, Eclipse Gray, 2.10 Kg)|4.6|1049
+151|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX GTX 1650/144 Hz) FX506LH-HN258WS Gaming Laptop  (15.6 Inch, Black Plastic, 2.30 Kg, With MS Office)|4.5|774
+152|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 250 G8 Laptop  (15.6 inch, Dark Ash)|0.0|539
+153|ASUS Ryzen 7 Octa Core 5800HS - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX GeForce RTX 3050) GA401QC-K2188WS Gaming Laptop  (14 Inch, Eclipse Gray, 1.60 Kg, With MS Office)|0.0|1437
+154|ASUS Ryzen 7 Octa Core 6800H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX RTX 3060/144 Hz) FA777RM-HX019W Gaming Laptop  (17.3 Inch, Jaeger Gray, 2.60 Kg)|0.0|1674
+155|HP Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 14s-dq3032tu Thin and Light Laptop  (14 inch, Jet Black, 1.46 kg, With MS Office)|3.9|412
+156|Lenovo Yoga 6 Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 13ALC6 2 in 1 Laptop  (13.3 inch, Abyss Blue, 1.32 Kg, With MS Office)|0.0|999
+157|ASUS Pentium Quad Core 10th Gen - (4 GB/128 GB SSD/128 GB EMMC Storage/Windows 11 Home) T3300KA-LQ121WS 2 in 1 Laptop  (13.3 inch, Black, With MS Office)|0.0|676
+158|ASUS Core i7 11th Gen - (16 GB/512 GB SSD/4 GB EMMC Storage/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX NVIDIA GeForce RTX 3050) FX706HCB-HX193T Gaming Laptop  (17.3 inch, Black)|0.0|1199
+159|HP ProBook Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro) 450 G8 Laptop  (15.6 inch, Pike Silver Aluminum)|0.0|1115
+160|MSI Raider GE66 Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) Raider GE66 12UGS-096IN Gaming Laptop  (15.6 inch, Titanium Blue, 2.38 kg)|0.0|3249
+161|MSI Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070) Crosshair 15 Rainbow Six Extraction Edition B12UGZ-032IN Gaming Laptop  (15.6 inch, Black, 2.47 kg)|0.0|2249
+162|SAMSUNG Galaxy Book Go Snapdragon 7c Gen 2 - (4 GB/128 GB EMMC Storage/Windows 11 Home) NP340XLA-KA1IN Thin and Light Laptop  (14 Inch, Silver, 1.38 Kg, With MS Office)|4.8|462
+163|acer Predator Helios 300 Core i9 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/360 Hz) PH315-54 Gaming Laptop  (15.6 Inch, Abyssal Black, 2.3 Kg)|0.0|1812
+164|Lenovo Core i5 10th Gen - (4 GB/1 TB HDD/DOS) V14 IIL Laptop  (14 inch, Grey)|0.0|593
+165|HP OMEN Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050Ti) 16-B0352TX Gaming Laptop  (16.1 Inch, Shadow Black, 2.32 Kg, With MS Office)|0.0|1487
+166|HP OMEN Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) 16-B0351TX Gaming Laptop  (16.1 Inch, Shadow Black, 2.32 Kg, With MS Office)|0.0|1462
+167|ASUS Asus Vivobook 15 Pentium Quad Core - (4 GB/1 TB HDD/Windows 11 Home) X515MA-BR101W Laptop  (15.6 inch, Transparent Silver, 1.8 kg)|3.7|374
+168|MSI Sword 15 Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) 15 A11UC-891IN Gaming Laptop  (15.6 inch, White, 2.25 kg)|0.0|1087
+169|HP Ryzen 5 Quad Core - (8 GB/512 GB SSD/Windows 10 Home) 15s-gr0500AU Laptop  (15.6 inch, Natural Silver, With MS Office)|0.0|654
+170|HP Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Pro) 240 G8 Laptop  (14 inch, Black)|0.0|668
+171|ASUS Vivobook Ultra K15 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) K513EA-L303WS K513E Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.8 kg, With MS Office)|0.0|612
+172|ASUS Vivobook 11 Celeron Dual Core - (4 GB/128 GB EMMC Storage/Windows 11 Home) E210MA-GJ001W Thin and Light Laptop  (11.6 inch, Peacock Blue, 1.05 kg)|0.0|335
+173|ASUS Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) K513EA-L303WS Laptop  (15.6 inch, Silver, With MS Office)|0.0|585
+174|ASUS VivoBook K15 OLED Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA-L513WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 Kg, With MS Office)|4.7|774
+175|ASUS VivoBook K15 OLED (2021) Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) KM513UA-L511WS Thin and Light Laptop  (15.6 inch, Hearty Gold, 1.80 kg, With MS Office)|4.7|774
+176|ASUS EeeBook 12 Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 11 Home) E210MA-GJ012W Thin and Light Laptop  (11.6 Inch, Star Black, 1.05 Kg)|0.0|274
+177|ASUS VivoBook 15 (2021) Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) X515JA-BQ302W Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg)|2.8|399
+178|ASUS EeeBook 12 Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 11 Home) E210MA-GJ011W Thin and Light Laptop  (11.6 Inch, Peacock Blue, 1.05 kg)|4.2|274
+179|ASUS EeeBook 14 Pentium Silver - (8 GB/256 GB SSD/Windows 11 Home) E410KA-BV103WS Thin and Light Laptop  (14 Inch, Star Black, 1.30 kg, With MS Office)|4.1|399
+180|ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) UX482EG-KA521WS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|0.0|1437
+181|ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core 6800H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G513RC-HN084WS Gaming Laptop  (15.6 Inch, Volt Green, 2.10 kg, With MS Office)|0.0|1437
+182|ASUS ROG Strix SCAR 15 (2022) Core i9 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/16 GB Graphics/NVIDIA GeForce RTX 3080 Ti) G533ZX-LN024WS Gaming Laptop  (15.6 inch, Off Black, 2.30 Kg, With MS Office)|0.0|3774
+183|ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G513RC-HN063W Gaming Laptop  (15.6 Inch, Electro Punk, 2.10 kg)|0.0|1424
+184|Infinix X1 Series Core i7 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/128 MB Graphics) XL12 Thin and Light Laptop  (14 Inch, Aurora Green, 1.48 kg)|4.2|637
+185|ASUS ROG Strix G15 Ryzen 7 Octa Core 6800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) G513RC-HN062W Gaming Laptop  (15.6 Inch, Volt Green, 2.10 Kg)|0.0|1362
+186|ASUS ROG Strix G15 Ryzen 7 Octa Core 6800H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) G513RC-HN083W Gaming Laptop  (15.6 Inch, Eclipse Gray, 2.10 Kg)|4.8|1437
+187|Infinix X1 Series Core i7 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/128 MB Graphics) XL12 Thin and Light Laptop  (14 Inch, Noble Red, 1.48 kg)|4.2|637
+188|ASUS ROG Strix SCAR 15 (2022) Core i9 12th Gen - (32 GB/2 TB SSD/Windows 11 Home/16 GB Graphics/NVIDIA GeForce RTX 3070 Ti) G533ZW-LN106WS Gaming Laptop  (15.6 inch, Off Black, 2.30 kg, With MS Office)|0.0|3312
+189|ASUS Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) M7400QC-KM053WS Thin and Light Laptop  (14 inch, Black, 1.45 kg, With MS Office)|0.0|1249
+190|ASUS Ryzen 9 Octa Core 5900HX - (8 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) M7400QE-KM046WS Gaming Laptop  (14 inch, Black, 1.45 kg, With MS Office)|0.0|1456
+191|ASUS Vivobook Pro Ryzen 9 Octa Core 5900HX - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/90 Hz) M7400QE-KM046TS Gaming Laptop  (14 Inch, Black, 1.45 kg, With MS Office)|0.0|1249
+192|ASUS Vivobook Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) M7600QC-L2044WS Laptop  (16 inch, Black, 1.95 kg, With MS Office)|0.0|2037
+193|ASUS ZenBook Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX325EA-KG511WS Thin and Light Laptop  (13.3 Inch, Lilac Mist, 1.14 Kg, With MS Office)|0.0|999
+194|ASUS Zenbook 14 Flip Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 11 Home) UN5401QA-KN901WS Thin and Light Laptop  (14 Inch, Jade Black, 1.40 Kg, With MS Office)|0.0|1687
+195|ASUS VivoBook 14 (2022) Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X415EA-EB572WS Thin and Light Laptop  (14 inch, Transparent Silver, 1.60 kg, With MS Office)|4.3|624
+196|ASUS ZenBook Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home) UX325EA-KG701WS Thin and Light Laptop  (13.3 Inch, Lilac Mist, 1.14 Kg, With MS Office)|0.0|1187
+197|DELL Vostro Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3510 Thin and Light Laptop  (15.6 Inch, Black, 1.8 Kgs, With MS Office)|3.9|512
+198|ASUS ZenBook Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) UX325EA-KG502WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.14 Kg, With MS Office)|5.0|874
+199|ASUS VivoBook Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) X415EA-EK342WS Thin and Light Laptop  (14 Inch, Transparent Silver, 1.60 Kg, With MS Office)|4.2|449
+200|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/Windows 10 Home) Inspiron 3515 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg kg, With MS Office)|3.5|657
+201|HP Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) 14s-dq3033tu Thin and Light Laptop  (14 inch, Jet Black, 1.46 kg, With MS Office)|4.1|424
+202|ASUS ZenBook Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX325EA-KG512WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.14 Kg, With MS Office)|0.0|999
+203|ASUS ZenBook Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX325EA-KG722WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.14 Kg, With MS Office)|0.0|1124
+204|ASUS Zenbook 14 Flip Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 11 Home) UN5401QA-KN701WS Thin and Light Laptop  (14 Inch, Jade Black, 1.40 Kg, With MS Office)|0.0|1436
+205|DELL Vostro Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) Vostro 3400 Thin and Light Laptop  (14 Inch, Dune, 1.59 Kgs, With MS Office)|0.0|524
+206|HP Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX Nvidia) Victus 16-e0075AX Gaming Laptop  (16.1 inch, Black, With MS Office)|0.0|851
+207|acer Extensa 15 Pentium Quad Core - (4 GB/1 TB HDD/Windows 11 Home) EX215-31 Laptop  (15.6 inch, Black, 1.9 kg)|2.9|337
+208|acer Extensa 15 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) EX215-54 Thin and Light Laptop  (15.6 inch, Charcoal Black, 1.7 kg)|4.6|412
+209|acer Aspire 3 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A315-58 Notebook  (15.6 Inch, Pure Silver, 1.7 Kg, With MS Office)|0.0|487
+210|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) Victus 16-d0003TX Laptop  (16.1 inch, Black, Blue)|0.0|1025
+211|acer Aspire 3 Core i5 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) A315-58 Notebook  (15.6 Inch, Pure Silver, 1.7 Kg)|0.0|612
+212|acer Aspire 3 Dual Core 3020e - (4 GB/256 GB SSD/Windows 11 Home) A314-22 Laptop  (14 Inch, Charcoal Black, 1.9 kg)|3.9|312
+213|Lenovo IdeaPad Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) IdeaPad 5 15ITL05 Thin and Light Laptop  (15.6 Inch, Graphite Grey, 1.66 Kg, With MS Office)|5.0|787
+214|Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15ITL05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 Kg, With MS Office)|3.7|512
+215|Lenovo IdeaPad Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg kg, With MS Office)|4.5|572
+216|Lenovo IdeaPad Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14ITL6 Thin and Light Laptop  (14 Inch, Arctic Grey, Dual Array Microphone kg, With MS Office)|3.3|637
+217|ASUS Vivobook Ultra K14 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) K14 Thin and Light Laptop  (14.1 inch, Transparent Silver, 1.4 kg, With MS Office)|4.3|556
+218|ASUS Vivobook 15 Celeron Dual Core - (4 GB/1 TB HDD/Windows 11 Home) X515MA-BR001WX515MA Laptop  (15.6 inch, Transparent Silver, 1.8 kg)|2.0|353
+219|Lenovo Ideapad 5 Ryzen 7 Octa Core 5800U - (16 GB/1 TB SSD/Windows 11 Home) IdeaPad 5 Pro 14ACN6 Thin and Light Laptop  (14 inch, Storm Grey, 1.38 kg, With MS Office)|0.0|912
+220|Lenovo IdeaPad 5 14ITL05 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL05 Laptop  (14 inch, Graphite Grey, With MS Office)|0.0|749
+221|MSI Katana GF66 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) Katana GF66 11UC-478IN Gaming Laptop  (15.6 inches, Black, 2.25 kg)|0.0|937
+222|MSI Modern 14 Ryzen 5 Hexa Core Ryzen 5 5500U 5th Gen - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B5M Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|0.0|624
+223|HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15s-fq2626TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.69 kg, With MS Office)|3.3|499
+224|DELL Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) G15-5515 Gaming Laptop  (15.6 inch, Phantom Grey with speckles, 2.57 Kg, With MS Office)|3.7|1437
+225|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/120 Hz) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.65 Kg, With MS Office)|0.0|1074
+226|DELL Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.65 Kg, With MS Office)|0.0|1249
+227|MSI Katana GF66 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti/144 Hz) GF66 11UD- 476IN Gaming Laptop  (15.6 inches, Black, 2.25 kg)|0.0|1187
+228|DELL Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.4 kg, With MS Office)|0.0|1249
+229|MSI Modern 15 Ryzen 7 Octa Core Ryzen 7 5700U 5th Gen - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 A5M Thin and Light Laptop  (15.6 inch, Carbon Gray, 1.6 kg)|0.0|874
+230|HP 15s Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) FR2508TU Thin and Light Laptop  (15.6 inch, Silver, With MS Office)|5.0|531
+231|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq4022TU Thin and Light Laptop  (15.6 Inch, Jet Black, 1.69 Kg, With MS Office)|4.5|687
+232|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) FQ4022TU Thin and Light Laptop  (15.6 inch, Black, With MS Office)|0.0|724
+233|acer Aspire 5 Core i5 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) A515-56 Notebook  (15.6 Inch, Pure Silver, 1.65 Kg, With MS Office)|3.0|624
+234|acer Aspire 3 Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) A315-23 Laptop  (15.6 inch, Pure Silver, 1.9 kg)|4.1|449
+235|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-FR2508TU Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)|4.1|531
+236|acer Aspire 3 Ryzen 3 Dual Core R33250U - (4 GB/512 GB SSD/Windows 11 Home) A315-23 Notebook  (15.6 Inch, Pure Silver, 1.9 kg)|4.8|424
+237|ASUS VivoBook Ultra 14 (2022) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X413EA-EB321WS Thin and Light Laptop  (14 inch, Cobalt Blue, 1.40 kg, With MS Office)|4.4|537
+238|ASUS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX363EA-HP562WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.30 Kg, With MS Office)|0.0|1099
+239|Lenovo Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) 20S0S1MC00 Business Laptop  (12 inch, Black)|0.0|2125
+240|Lenovo Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) Ideapad 3 15IML05 Laptop  (15.6 inch, Platinum Grey, With MS Office)|4.2|487
+241|ASUS Zenbook 14 Flip Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home) UN5401QA-KN511WS Thin and Light Laptop  (14 Inch, Jade Black, 1.40 Kg, With MS Office)|0.0|1148
+242|ASUS VivoBook Ultra 14 (2021) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X413EA-EB323WS Thin and Light Laptop  (14 inch, Dreamy White, 1.40 kg, With MS Office)|4.4|537
+243|ASUS ASUS Vivobook 13 Slate OLED Pentium Quad Core - (4 GB/128 GB EMMC Storage/Windows 11 Home) T3300KA-LQ122WS 2 in 1 Laptop  (13.3 inch, Black, 0.78 kg, With MS Office)|2.3|537
+244|ASUS ASUS Vivobook 13 Slate OLED Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) T3300KA-LQ111WS 2 in 1 Laptop  (13.3 Inch, Black, 0.78 kg, With MS Office)|4.0|687
+245|ASUS Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX363EA-HP702WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.30 Kg, With MS Office)|0.0|1312
+246|ASUS ZenBook Duo 14 (2021) Touch Panel Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/2 GB Graphics) UX482EGR-KA711WS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|0.0|1687
+247|ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) UX482EA-KA501WS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|0.0|1249
+248|ASUS VivoBook Ultra 14 (2022) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X413EA-EB321WS Thin and Light Laptop  (14 inch, Cobalt Blue, 1.40 kg, With MS Office)|4.4|537
+249|ASUS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) UX363EA-HP562WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.30 Kg, With MS Office)|0.0|1099
+250|ASUS VivoBook Ultra 14 (2022) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X413EA-EB322WS Thin and Light Laptop  (14 inch, Bespoke Black, 1.40 kg, With MS Office)|4.4|537
+251|ASUS VivoBook 14 Pentium Silver - (4 GB/256 GB SSD/Windows 11 Home) X415KA-EK111WS Thin and Light Laptop  (14 Inch, Transparent Silver, 1.50 Kg, With MS Office)|4.2|374
+252|ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) UX482EGR-KA521WS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|0.0|1437
+253|ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) UX482EAR-KA501WS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|0.0|1249
+254|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|4.4|899
+255|DELL Core i5 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 5510 D560638WIN9B Laptop  (15.6 inch, Dark Shadow Grey, With MS Office)|0.0|862
+256|Lenovo Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL6 Laptop  (14 inch, Storm Grey, With MS Office)|0.0|900
+257|HP Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 11 Home) EQ2144AU Laptop  (15.6 inch, Natural Silver, With MS Office)|4.3|599
+258|HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq2144au Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)|4.4|599
+259|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2629TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 KG, With MS Office)|4.3|524
+260|Lenovo Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15ITL6 Laptop  (15.6 inch, Arctic Grey, With MS Office)|0.0|699
+261|ASUS Ryzen 7 Octa Core 5800HS - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) GA401QH-HZ080TS Thin and Light Laptop  (14 inch, Moonlight White, 1.60 Kg, With MS Office)|4.4|999
+262|ASUS Ryzen 7 Octa Core 5800HS - (16 GB/512 GB SSD/Windows 10 Home/NVIDIA GeForce GTX 1650/144 HZ) GA401QH-HZ079TS Gaming Laptop  (14 inch, Eclipse Gray, 1.60 Kg, With MS Office)|4.5|999
+263|ASUS VivoBook Pro 14 OLED (2022) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated Iris Xe) K3400PA-KM502WS Gaming Laptop  (14 inch, Cool Silver, 1.40 kg, With MS Office)|4.2|824
+264|ASUS ExpertBook Core i3 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Pro) P1545FA Business Laptop  (15.6 inch, Slate Grey, 1.80 kg)|0.0|512
+265|acer Swift X Ryzen 7 Octa Core 5800U - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) SFX14-41G Thin and Light Laptop  (14 inch, Safari Gold, 1.39 kg, With MS Office)|0.0|1249
+266|acer Intel EVO Swift 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) SF514-55TA Thin and Light Laptop  (14 Inch, Mist Green, 1.05 Kg, With MS Office)|0.0|937
+267|Lenovo IdeaPad 3 15IML05 Core i3 10th Gen - (8 GB/Windows 11 Home) IdeaPad 3 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg, With MS Office)|4.0|424
+268|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 5502 Thin and Light Laptop  (15.6 inch, Silver)|0.0|1074
+269|acer Predator Helios 300 Core i9 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX RTX 3060/300 Hz) PH315-54 Gaming Laptop  (15.6 inch, Abyssal Black, 2.3 Kg)|3.0|1749
+270|acer Predator Helios 300 Core i9 11th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/300 Hz) PH315-54 Gaming Laptop  (15.6 inch, Abyssal Black, 2.3 Kg)|0.0|2124
+271|DELL Inspiron 3510 Pentium Quad Core 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) 3510 Laptop  (15.6 inch, Black, 1.83 kg, With MS Office)|0.0|449
+272|Lenovo IdeaPad Core i3 10th Gen - (4 GB/256 GB SSD/Windows 11 Home) 14IIL05 Laptop  (14 inch, Abyss Blue, With MS Office)|4.8|431
+273|DELL Inspiron 3511 Core i3 11th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 11 Home) 3511 Laptop  (15.6 inch, Black, 1.83 kg, With MS Office)|3.8|637
+274|ASUS Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) X515EA-BQ312WS Laptop  (15.6 inch, Silver, With MS Office)|0.0|473
+275|ASUS ASUS TUF Gaming A17 Ryzen 7 Octa Core 4800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FA706IC-HX003T Gaming Laptop  (17.3 inch, Graphite Black, 2.60 kg)|4.5|999
+276|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq4021TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)|4.2|711
+277|HP Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home) 14s- dq3032tu Thin and Light Laptop  (14 Inch, Jet Black, 1.46 kg, With MS Office)|3.9|392
+278|HP Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 14s-fq1089au Thin and Light Laptop  (14 Inch, Natural Silver, 1.46 Kg kg, With MS Office)|4.5|499
+279|DELL Vostro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.59 Kg, With MS Office)|0.0|693
+280|DELL Inspiron Ryzen 5 Quad Core 3450U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (15.6 inch, Carbon Black, 1.8 kg, With MS Office)|4.3|556
+281|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5418 Thin and Light Laptop  (14 inch, Platinum Silver, 1.46 Kg, With MS Office)|4.5|887
+282|MSI Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) Pulse GL66 12UEK-046IN Gaming Laptop  (15.6 inch, Gray, 2.25 kg)|4.1|1762
+283|ASUS Zenbook Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) UX363EA-HP502WS Thin and Light Laptop  (13.3 Inch, Pine Grey, 1.30 kg, With MS Office)|0.0|999
+284|DELL Vostro Core i3 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.59 Kg, With MS Office)|0.0|551
+285|MSI Stealth GS66 Core i7 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti) stealth gs66 12ugs-038in Gaming Laptop  (15.6 Inch, Black, 2.1 Kg)|0.0|3499
+286|DELL Vostro Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.59 Kg, With MS Office)|3.3|756
+287|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Light Laptop  (15.6 inch, Carbon Black, 1.8 kg, With MS Office)|4.1|748
+288|DELL Inspiron Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (14.96 cm, Carbon Black, 1.8 kg, With MS Office)|0.0|474
+289|DELL Vostro Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Vostro 3400 Thin and Light Laptop  (14.96 Inch, Dune, 1.59 Kg, With MS Office)|4.1|487
+290|MSI Delta 15 AMD Advantage Edition Ryzen 9 Octa Core 5900HX 5th Gen - (16 GB/1 TB SSD/Windows 11 Home/10 GB Graphics/AMD Radeon RX 6700M) A5EFK-083IN Gaming Laptop  (15.6 inch, Carbon Gray, 1.9 kg)|0.0|1624
+291|acer Aspire 5 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) A515-45 Thin and Light Laptop  (15.6 inch, Pure Silver, 1.76 kg, With MS Office)|0.0|649
+292|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) INSPIRON 3515 Thin and Light Laptop  (15.6 Inch, Mist Blue Speckle, 1.8 Kgs, With MS Office)|0.0|507
+293|Lenovo Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) 15IML05 Laptop  (15.6 inch, Platinum Grey, With MS Office)|3.4|474
+294|HP Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 15s-eq2143au Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 Kg, With MS Office)|4.1|487
+295|Lenovo Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.7 Kg, With MS Office)|4.4|462
+296|Lenovo IdeaPad Core i3 10th Gen - (4 GB/256 GB SSD/Windows 11 Home) IdeaPad 3 14IIL05 Thin and Light Laptop  (14 Inch, Abyss Blue, 1.6 kg, With MS Office)|4.0|399
+297|Lenovo Thinpad E15 G2 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro/512 MB Graphics) E15 G2 Laptop  (15.6 inch, Black)|0.0|1124
+298|HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 14s-fq1092au Thin and Light Laptop  (14 inch, Natural Silver, 1.46 Kg, With MS Office)|4.4|599
+299|ASUS Vivobook Pro 16X OLED (2021) Ryzen 9 Octa Core 5900H 9th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) M7600QC-L2044WS Gaming Laptop  (16 Inch, Black, 1.95 kg, With MS Office)|0.0|1631
+300|MSI Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MOU-861IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.1|587
+301|MSI Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Modern 14 B11SBU-688IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|0.0|962
+302|HP Pavilion x360 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14-dy0190TU 2 in 1 Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|4.5|674
+303|ASUS VivoBook Flip 14 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) TP470EA-EC311WS 2 in 1 Laptop  (14 inch, Transparent Silver, 1.50 kg, With MS Office)|4.1|662
+304|ASUS VivoBook Flip 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) TP470EA-EC511WS 2 in 1 Laptop  (14 inch, Transparent Silver, 1.50 kg, With MS Office)|4.6|799
+305|ASUS VivoBook Flip 14 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) TP470EA-EC301WS 2 in 1 Laptop  (14 Inch, Transparent Silver, 1.50 kg, With MS Office)|4.6|624
+306|HP Ryzen 3 Dual Core - (8 GB/512 GB SSD/Windows 11 Home) 245 G8 Laptop  (14 inch, Black, With MS Office)|0.0|552
+307|ASUS Vivobook 14 Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) E410KA-EK101WS Thin and Light Laptop  (14.1 inch, Peacock Blue, With MS Office)|4.6|456
+308|ASUS Vivobook 14 Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) E410KA-EK103WS Thin and Light Laptop  (14 inch, Star Black, 1.3 kg, With MS Office)|4.3|424
+309|ASUS Vivo Book Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X515FA-BR301T Laptop  (15.6 inch, Slate Grey, 1.80 kg)|4.7|475
+310|Lenovo Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 15ACH6 Laptop  (15.6 inch, Shadow_black, 2.4 Kg)|3.7|932
+311|acer Core i3 11th Gen - (4 GB/1 TB HDD/Windows 10 Home) EX215-54 Notebook  (15.6 inch, Black)|3.3|462
+312|Lenovo IdeaPad 5 Pro Ryzen 7 Hexa Core - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce NVIDIA GeForce GTX 1650 4GB GDDR6) 16ACH6 Gaming Laptop  (16 Inch, Storm Grey, 1.41 kg, With MS Office)|0.0|995
+313|HP Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro) PROBOOK 440 G8 Business Laptop  (14 inch, Grey)|0.0|1494
+314|Lenovo Yoga 6 Ryzen 5 Hexa Core 5500U - (16 GB/1 TB SSD/Windows 11 Home) Yoga 6 Thin and Light Laptop  (13.3 inch, Abyss Blue, 1.31 kg, With MS Office)|0.0|999
+315|Lenovo Ideapad Slim 5i Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 15 ITL 05 Thin and Light Laptop  (15.6 Inch, Graphite Grey, 1.66 KG, With MS Office)|5.0|856
+316|Lenovo Ideapad Slim 3i (2021) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) Ideapad Slim 3i Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.65 KG, With MS Office)|4.4|457
+317|Lenovo Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL6 Laptop  (14.22 inch, Storm Grey, With MS Office)|0.0|1074
+318|Lenovo Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14ITL05 Laptop  (14 inch, Platinum Grey, With MS Office)|1.8|506
+319|HP Omen Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX RTX 3060) 16-b0360TX Gaming Laptop  (16.1 Inch, Shadow Black, 2.32 Kg, With MS Office)|0.0|1674
+320|ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ322WS Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|3.7|521
+321|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15ITL6 Laptop  (15 inch, Arctic Grey, With MS Office)|0.0|518
+322|DELL Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) 3000 Laptop  (15.6 inch, Carbon Black, With MS Office)|0.0|749
+323|LG Gram Core i5 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Gram 14Z90P-G.AJ61A2 Thin and Light Laptop  (14 inch, Snow White, 0.99 kg)|0.0|962
+324|LG Gram Core i5 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Gram 14Z90P-G.AJ63A2 Thin and Light Laptop  (14 inch, Quarts Silver, 0.99 kg)|0.0|962
+325|Lenovo Ideapad Slim 3i (2021) Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Ideapad Slim 3i Thin and Light Laptop  (15.6 Inch, Arctic Grey, 1.65 KG, With MS Office)|4.2|499
+326|LG Gram Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Gram 16Z90P-G.AJ64A2 Thin and Light Laptop  (16 inch, Snow White, 1.19 kg)|0.0|1087
+327|acer Aspire 3 Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 11 Home) A315-23 Laptop  (15.6 inch, Pure Silver, 1.9 kg)|4.5|537
+328|ASUS ROG Strix G15 Ryzen 9 Octa Core 5900HX - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) G513QE-HN166TS Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 kg)|4.7|1224
+329|acer Aspire 3 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) A315-58 Thin and Light Laptop  (15.6 inch, Pure Silver, 1.7 kg)|4.2|437
+330|ASUS ROG Strix G15 Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) G513QM-HQ403TS Gaming Laptop  (15.6 inch, Eclipse Gray, 2.30 kg, With MS Office)|4.1|1699
+331|ASUS Pentium Quad Core - (4 GB/1 TB HDD/Windows 10 Home) X543MA-DM101T Laptop  (15.6 inch, Transparent Silver, 1.90 kg)|0.0|349
+332|acer Aspire Vero(Green PC ) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) AV15-51 Thin and Light Laptop  (15.6 inch, Volcano Gray, 1.8 kg, With MS Office)|5.0|724
+333|ASUS Vivobook 14 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X415EA-EB322WS Thin and Light Laptop  (14.1 inch, Transparent Silver, 1.6 kg, With MS Office)|0.0|499
+334|ASUS Vivobook 17 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) X712EA-AU521WS Laptop  (17.3 inch, Transparent Silver, 2.3 kg, With MS Office)|4.0|721
+335|ASUS Ryzen 9 Octa Core 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX RTX 3060 6GB Graphics) GA401QM-K2330TS Gaming Laptop  (14 inch, White, With MS Office)|0.0|1649
+336|HP Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10) 240 G8 Laptop  (15.6 inch, Black, With MS Office)|0.0|549
+337|ASUS Vivobook Core i5 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X415EA-EB502TS Thin and Light Laptop  (14 inch, Transparent Silver, 1.55 kg, With MS Office)|0.0|587
+338|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|4.2|543
+339|DELL Inspiron Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Light Laptop  (14.96 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|4.3|568
+340|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (15.6 Inch, Carbon Black, 1.8 Kgs, With MS Office)|4.3|612
+341|DELL Vostro Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.59 kg, With MS Office)|3.8|732
+342|DELL Inspiron Ryzen 5 Hexa Core R5-5500U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 7415 2 in 1 Laptop  (14 inch, Pebble Green, 1.56 Kg, With MS Office)|4.4|881
+343|DELL Vostro Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Dune, 1.58 Kg, With MS Office)|4.1|512
+344|DELL Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon Black, 1.8 kg, With MS Office)|3.7|493
+345|DELL Vostro Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 5415 Thin and Light Laptop  (14 inch, Titan Grey, 1.5 kg, With MS Office)|0.0|743
+346|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (14.96 inch, Carbon Black, 1.8 kg, With MS Office)|3.6|424
+347|DELL Vostro Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) Vostro 3405 Thin and Light Laptop  (14 Inch, Accent Black, 1.59 Kgs, With MS Office)|4.3|487
+348|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 3511 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|3.9|831
+349|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/Windows 11 Home) INSPIRON 3515 Thin and Light Laptop  (15.6 Inch, Carbon Black, 1.8 Kgs, With MS Office)|4.2|467
+350|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|4.3|824
+351|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) INSPIRON 3515 Thin and Light Laptop  (14.96 Inch, Carbon Black, 1.8 Kgs, With MS Office)|4.2|437
+352|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511,Inspiron 3000 Thin and Light Laptop  (15.6 Inch, Carbon Black, 1.8 Kgs, With MS Office)|4.3|556
+353|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 5410 2 in 1 Laptop  (14 Inch, Platinum Silver, 1.5 Kgs, With MS Office)|4.1|937
+354|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) INSPIRON 5518 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.64 kg, With MS Office)|3.8|933
+355|HP Ryzen 5 Octa Core 3500u - (8 GB/1 TB HDD/Windows 10 Home) 245 G8 Laptop  (15.6 inch, Dark Ash Silver, With MS Office)|0.0|499
+356|Lenovo Ideapad AMD Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ALC6 Laptop  (15.6 inch, Platinum Grey, With MS Office)|4.8|612
+357|ASUS Vivobook 14 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X415FA-BV311T Laptop  (14.1 inch, Slate Grey, 1.6 kg)|4.0|387
+358|Lenovo Ideapad Slim 3i (2021) Core i3 10th Gen - (4 GB/256 GB SSD/Windows 11 Home) Ideapad 3 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.65 KG, With MS Office)|0.0|499
+359|MSI Modern 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MOU Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.5|687
+360|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-dy3501TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 kg, With MS Office)|4.3|524
+361|HP Pavilion x360 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14-dy0186TU 2 in 1 Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|4.4|699
+362|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-du3517TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 Kg, With MS Office)|4.3|674
+363|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15ITL6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.3|524
+364|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-dy3501TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 kg, With MS Office)|4.3|524
+365|HP Spectre x360 14 Series Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14-ea0538TU Thin and Light Laptop  (13.5 inch, Poseidon Blue, 1.34 kg, With MS Office)|0.0|1399
+366|Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ALC6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.3|593
+367|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop  (14 inch, Platinum Grey, 1.5 kg, With MS Office)|4.2|499
+368|MSI Prestige 14 Evo Intel EVO Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Prestige 14Evo A11M-625IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.29 kg)|0.0|1062
+369|MSI Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MOU-862IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.2|474
+370|DELL Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Vostro 5402 Thin and Light Laptop  (14 Inch, Vintage Gray, 1.4 kg, With MS Office)|3.0|768
+371|DELL Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 kg, With MS Office)|0.0|981
+372|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|3.9|768
+373|DELL Inspiron Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 7415 2 in 1 Laptop  (14 inch, Pebble Green, 1.56 Kg, With MS Office)|4.7|1062
+374|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (14.96 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|3.4|493
+375|DELL Inspiron Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|4.3|599
+376|DELL Inspiron Ryzen 5 Quad Core 3450U - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|3.9|725
+377|DELL Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 kg, With MS Office)|4.2|756
+378|ASUS ExpertBook Core i3 10th Gen - (4 GB/1 TB HDD/DOS) P1545FA-BR281 Business Laptop  (15.6 inch, Slate Grey, 1.80 kg)|2.3|433
+379|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|4.2|774
+380|DELL Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 10) Inspiron 3515 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|3.7|492
+381|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 5410 2 in 1 Laptop  (14 Inch, Platinum Silver, 1.50 Kgs, With MS Office)|4.4|899
+382|DELL Inspiron Pentium Quad Core - (4 GB/256 GB SSD/Windows 11 Home) Inspiron 3000 Thin and Light Laptop  (15.6 inch, Carbon Black, 1.8 kg, With MS Office)|4.3|450
+383|DELL Vostro Core i3 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3400 Thin and Light Laptop  (14 inch, Accent Black, 1.59 Kg, With MS Office)|3.0|449
+384|DELL Inspiron Core i5 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Light Laptop  (15.6 Inch, Carbon Black, 1.8 Kgs, With MS Office)|3.8|699
+385|DELL Inspiron Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) INSPIRON 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 kg, With MS Office)|4.4|599
+386|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) INSPIRON 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 Kg, With MS Office)|4.7|1123
+387|DELL Vostro Core i3 10th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Accent Black, 1.58 Kg, With MS Office)|0.0|437
+388|DELL Vostro Ryzen 5 Quad Core R5-3450U - (8 GB/256 GB SSD/Windows 11 Home) Vostro 3405 Thin and Light Laptop  (14 inch, Accent Black, 1.59 Kg, With MS Office)|4.4|556
+389|DELL Inspiron Ryzen 5 Hexa Core R5-5500U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 5515 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.64 Kg, With MS Office)|4.6|812
+390|DELL Inspiron Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (14.96 Inch, Platinum Silver, 1.8 kg, With MS Office)|4.2|524
+391|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.8 Kg, With MS Office)|4.1|493
+392|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (14.96 Inch, Platinum Silver, 1.8 Kgs, With MS Office)|4.5|549
+393|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 5518 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.64 Kgs, With MS Office)|3.8|874
+394|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 kg, With MS Office)|4.3|612
+395|DELL Inspiron Ryzen 5 Quad Core 3450U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 3515 Thin and Light Laptop  (15.6 inch, Platinum Silver, 1.8 Kg, With MS Office)|4.1|624
+396|ASUS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) X712EA-AU521TS Thin and Light Laptop  (17.3 Inch, Transparent Silver, 2.30 KG, With MS Office)|3.5|710
+397|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 3511 Laptop  (15.6 inch, Platinum Silver, With MS Office)|0.0|918
+398|ASUS Vivobook Ultra K15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) K513EA-L313WS Laptop  (15.6 inch, Transparent Silver, 1.8 kg, With MS Office)|5.0|636
+399|DELL Inpiron 7501 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics) 7501 Laptop  (15.6 inch, Silver Premium, 1.8 kg, With MS Office)|0.0|949
+400|DELL Ryzen 5 Quad Core - (8 GB/1 TB HDD/256 GB SSD/Windows 10) 3515 Laptop  (15.6 inch, Blue Mist Sparkle, With MS Office)|4.3|649
+401|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) 3511 Laptop  (15.6 inches, Platinum Silver, 1.85 kg, With MS Office)|0.0|749
+402|HP Notebook PC Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10) G8 240 Thin and Light Laptop  (14 inch, Ash Gray, 1.47 kg)|4.0|449
+403|ASUS VivoBook 15 (2021) Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X515EA-EJ502WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|649
+404|ASUS VivoBook Ultra 14 (2021) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) X413EA-EB533WS Thin and Light Laptop  (14 inch, Dreamy White, 1.40 kg, With MS Office)|4.6|699
+405|ASUS VivoBook Ultra 14 (2021) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) X413EA-EB531WS Thin and Light Laptop  (14 inch, Cobalt Blue, 1.40 kg, With MS Office)|4.6|699
+406|ASUS VivoBook K15 OLED (2022) Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) K513EA-L302WS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|4.5|599
+407|ASUS VivoBook Ultra 14 (2022) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) X413EA-EB532WS Thin and Light Laptop  (14 inch, Bespoke Black, 1.40 kg, With MS Office)|4.6|699
+408|ASUS VivoBook K15 OLED (2022) Ryzen 5 Hexa Core 5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) KM513UA-L503WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.4|737
+409|ASUS VivoBook K15 OLED (2022) Ryzen 5 Hexa Core 5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) KM513UA-L502WS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|4.4|737
+410|DELL Core i3 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) 3511 Laptop  (15.6 inch, Carbon Black, With MS Office)|4.0|531
+411|ASUS VivoBook K15 OLED (2022) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) K513EA-L312WS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|4.5|637
+412|ASUS VivoBook K15 OLED (2022) Core i5 11th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 11 Home) K513EA-L523WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.7|874
+413|ASUS Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) X515EA-EJ312WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.4|474
+414|Lenovo Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL05 Laptop  (14 inch, Graphite Grey, With MS Office)|0.0|1083
+415|HP Ryzen 7 Quad Core 3rd Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-ay0046AU 2 in 1 Laptop  (13.3 inch, Black)|0.0|1362
+416|ASUS Vivobook 14 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) X415FA-BV341T Laptop  (14 inch, Slate Grey, 1.6 kg)|5.0|411
+417|ASUS VivoBook 14 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) X415FA-BV341T Thin and Light Laptop  (14 inch, Slate Grey, 1.80 kg)|4.3|406
+418|ASUS Vivobook 14 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X415EA-EB342WS Notebook  (14 inch, Transparent Silver, 1.6 kg, With MS Office)|4.3|437
+419|ASUS Vivobook Pro 15 OLED Ryzen 7 Octa Core AMD Ryzen 7 5800H 5th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) M3500QC-L1262TS Laptop  (15.6 inch, Quiet Blue, 1.65 kg, With MS Office)|0.0|1124
+420|ASUS ASUS TUF Gaming F15 Core i9 11th Gen - (16 GB/1 TB SSD/Windows 10/6 GB Graphics/NVIDIA GeForce RTX 3060) FX566HM-AZ096TS Gaming Laptop  (15.6 inch, Eclipse Gray, 2.30 kg, With MS Office)|0.0|1749
+421|HP Pavilion Gaming Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15-EC2150AX Gaming Laptop  (15.6 inch, Shadow Black & Ultra Violet, 1.98 kg)|4.0|737
+422|HP x360 Core i3 11th Gen - (8 GB/256 GB SSD/Chrome OS) 14c-cc0009TU 2 in 1 Laptop  (14 inch, Mineral Silver, 1.49 Kg)|3.5|629
+423|DELL DELL INSPIRON 3515 2021 SERIES Ryzen 3 Dual Core AMD RYZEN 3 3250U - (8 GB/1 TB HDD/Windows 10) Inspiron 3515 Laptop  (15.6 inch, Carbon Silver, With MS Office)|0.0|549
+424|HP Spectre x360 14 Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Pro) 14-ea0077TU 2 in 1 Laptop  (13.5 inch, Poseidon Blue, 1.34 Kg)|0.0|1912
+425|HP Pavilion Ryzen 7 Octa Core 5800U - (16 GB/1 TB SSD/Windows 11 Home) 13-BE0208AU Thin and Light Laptop  (13.3 Inch, Pale Rose Gold, 0.97 Kg, With MS Office)|0.0|997
+426|HP Pavilion Aero Laptop Ryzen 5 Hexa Core 5600U - (16 GB/512 GB SSD/Windows 11 Home) 13-BE0206AU Thin and Light Laptop  (13.3 inch, Natural Silver, 0.97 kg, With MS Office)|4.2|809
+427|HP Pavilion Gaming Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-EC2146AX Gaming Laptop  (15.6 inch, Shadow Black & Ultra Violet, 1.98 kg)|3.4|999
+428|HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14s-ef1001tu Thin and Light Laptop  (14 Inch, Natural Silver, 1.49 Kg, With MS Office)|4.3|708
+429|HP Pavilion Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) 15-DK2096TX Gaming Laptop  (15.6 Inch, Shadow Black & Ultra Violet, 2.23 Kg, With MS Office)|4.7|1099
+430|HP x360 Core i5 11th Gen - (8 GB/256 GB SSD/Chrome OS) 14c-cc0010TU Chromebook  (14 inch, Mineral Silver, 1.49 kg)|0.0|754
+431|HP OMEN Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070) 16-b0370TX Gaming Laptop  (16.1 inch, Shadow Black, 2.32 kg, With MS Office)|0.0|2149
+432|HP Pavilion Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 3050) 15-EC2145AX Gaming Laptop  (15.6 inch, Shadow Black & Ultra Violet, 1.98 kg)|4.5|874
+433|HP Pavilion Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 14-dv1000TU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 Kg, With MS Office)|4.2|730
+434|HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-dv1001TU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|4.5|824
+435|DELL Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5515 Gaming Laptop  (14.96 Inch, Specter Green, 2.5 kg, With MS Office)|0.0|1218
+436|HP Pavilion Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15-eg1000TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|4.2|774
+437|ASUS Vivobook Pro 14X OLED (2021) Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050/90 Hz) M7400QC-KM053TS Creator Laptop  (14 Inch, Black, 1.45 kg, With MS Office)|4.5|1374
+438|ASUS Core i7 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) K513EA-L703TS Thin and Light Laptop  (15.6 inch, Silver, With MS Office)|0.0|1031
+439|ASUS Vivobook 15 Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X509FA-EJ311TS Laptop  (15.6 inch, Transparent Silver, 1.90 kg, With MS Office)|3.9|437
+440|ASUS Vivobook 15 K513 Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) K513EA-L503TS Laptop  (15.6 inch, Silver, 1.8 kg, With MS Office)|0.0|749
+441|MSI Creator Z16 Core i9 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) Creator Z16 A11UET-272IN Gaming Laptop  (16 inch, Lunar Gray, 2.2 kg)|0.0|2249
+442|ASUS Vivobook X515EA Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X515EA Laptop  (15.6 inch, Transparent Silver, 1.8 kg, With MS Office)|3.9|468
+443|Lenovo Ideapad 3 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 15IML05 Laptop  (15.6 inch, Platinum Grey, 1.85 kg, With MS Office)|0.0|687
+444|HP Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10) 240 G8 Laptop  (14.1 inch, Black)|4.4|534
+445|DELL Ryzen 5 Quad Core - (8 GB/1 TB SSD/Windows 10) Inspiron3515 Laptop  (15.6 inch, Carbon Silver, With MS Office)|4.0|723
+446|Infinix INBook X1 Pro Core i7 10th Gen - (16 GB/512 GB SSD/Windows 11 Home) XL12 Thin and Light Laptop  (14 Inch, Starfall Grey, 1.48 kg)|4.2|637
+447|HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14s- dy2506TU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 kg, With MS Office)|4.3|487
+448|Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Starfall Grey, 1.48 kg)|4.3|374
+449|Infinix INBook X1 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Starfall Grey, 1.48 kg)|4.1|499
+450|Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Aurora Green, 1.48 kg)|4.3|374
+451|Infinix INBook X1 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Noble Red, 1.48 kg)|4.1|499
+452|Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Noble Red, 1.48 kg)|4.3|374
+453|ASUS AMD Rhyzen 5 5600U Ryzen 5 Octa Core 1115G4 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) UM325SA-KG512S Laptop  (13.3 inch, Pine Grey, 1.80 kg, With MS Office)|0.0|949
+454|Lenovo Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) IdeaPad 3 15ITL6 Laptop  (15.6 inch, Arctic Grey, With MS Office)|0.0|574
+455|HP Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-du3055TU Thin and Light Laptop  (15.6 Inch, Jet Black, 1.77 Kg, With MS Office)|3.9|518
+456|Lenovo IdeaPad Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) ideapad 3 14ALC6UB Thin and Light Laptop  (14 inch, Abyss Blue, 1.66 kg, With MS Office)|0.0|606
+457|ASUS Core i5 11th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home) X712EA-AU511TS Thin and Light Laptop  (17.3 Inch, Transparent Silver, 2.30 KG, With MS Office)|4.2|787
+458|ASUS Vivobook Pro 14 OLED (2021) Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050/90 Hz) M3401QC-KM045TS Creator Laptop  (14 Inch, Quiet Blue, 1.40 kg, With MS Office)|4.8|1124
+459|ASUS Vivobook 14 Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) X415EA-EB372WS Thin and Light Laptop  (14.1 inch, Transparent Silver, 1.6 kg, With MS Office)|4.1|486
+460|Lenovo Ideapad 5 Pro Ryzen 7 Octa Core 5800U - (16 GB/512 GB SSD/Windows 11 Home) 14ACN6 Thin and Light Laptop  (14 inch, Storm Grey, 1.38 kg, With MS Office)|0.0|849
+461|ASUS VivoBook 15 Celeron Dual Core - (4 GB/256 GB SSD/Windows 10 Home) X543MA-GQ1358T Laptop  (15.6 inch, Transparent Silver, 1.9 kg)|4.0|349
+462|HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14-dv1002TU Thin and Light Laptop  (14 inch, Tranquil Pink, 1.41 kg)|4.5|824
+463|ASUS Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) CX1101CMA-GJ0007 Chromebook  (11.6 Inch, Transparent Silver, 1.24 Kg)|3.6|237
+464|HP Pavilion Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15-eg0547TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 kg, With MS Office)|4.3|787
+465|"Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ACH6| 15ACH6D1| IdeaPad Gaming3 15ACH6D1 Gaming Laptop  (15.6 inch, Shadow Black, 2.25$$kg kg)"|4.5|762
+466|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) IdeaPad 3 15ITL6 Ub Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.3|487
+467|ASUS Core i3 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) X415EA-EK302WS Thin and Light Laptop  (14 Inch, Transparent Silver, 1.60 kg, With MS Office)|4.1|424
+468|Avita Liber V14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) NS14A8INF561-MB Thin and Light Laptop  (14 inch, Matt Black, 1.25 kg)|3.7|587
+469|DELL Inspiron Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon, 1.85 kg, With MS Office)|4.2|531
+470|DELL Vostro Core i3 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.58 Kg, With MS Office)|3.7|551
+471|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5418 Thin and Light Laptop  (14 Inch, Silver, 1.5 kg, With MS Office)|4.0|876
+472|DELL Vostro Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10) Vostro 3405 Thin and Light Laptop  (14 inches, Dune, 1.58 kg, With MS Office)|4.1|612
+473|MSI Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B10MW-658IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.5|399
+474|ASUS Vivobook 15 Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515EA-BR391TS Laptop  (15.6 inch, Slate Grey, 1.8 kg, With MS Office)|4.1|447
+475|MSI Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-657IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.4|587
+476|MSI Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-659IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.2|724
+477|MSI Prestige 14 Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Prestige 14Evo A11M-624IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.29 kg)|0.0|937
+478|ASUS ASUS TUF Dash F15 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) FX516PMZ-HN186WS Gaming Laptop  (15.6 inch, Moonlight White, 2 kg, With MS Office)|4.9|1062
+479|ASUS VivoBook 15 (2022) Core i3 10th Gen - (4 GB/512 GB SSD/Windows 11 Home) X515JA-EJ372WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.4|437
+480|ASUS VivoBook 15 (2022) Core i7 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated Iris Plus) X515JA-EJ701WS Gaming Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.0|724
+481|ASUS VivoBook 15 (2022) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|487
+482|ASUS VivoBook 15 (2022) Core i7 10th Gen - (16 GB/512 GB SSD/Windows 11 Home/Intel Integrated Iris Plus) X515JA-EJ701WS Gaming Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.0|724
+483|ASUS VivoBook 15 (2022) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|487
+484|DELL Core i5 11th Gen - (8 GB/1 TB HDD/Windows 10) 3400 Laptop  (15 inch, Dune, With MS Office)|0.0|737
+485|Lenovo Legion 5 Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX NVIDIA® GEFORCE® GTX 1650 (4GB GDDR6)/60 Hz) 15ACH6 Gaming Laptop  (15.6 inch, Phantom BLUE, 2.4 kg)|0.0|938
+486|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-du3564TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 kg, With MS Office)|4.3|537
+487|ASUS Vivobook 15 Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515EA-BR391TS Laptop  (15.6 inch, Slate Grey, 1.8 kg, With MS Office)|3.4|449
+488|DELL Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10) 3511 Laptop  (15.6 inch, Mist Blue Speckle, With MS Office)|0.0|618
+489|ASUS Vivobook 14 Ryzen 3 Dual Core AMD Ryzen 3 3250U - (8 GB/256 GB SSD/Windows 10 Home) M415DA-EK322TS Thin and Light Laptop  (14.1 inch, Transparent Silver, 1.5 kg, With MS Office)|4.2|424
+490|ASUS ROG Zephyrus G14 Ryzen 9 Octa Core AMD Ryzen 9 5900HS Processor 5th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX3050Ti/120 Hz) GA401QEC-K2128TS Gaming Laptop  (14 inch, Gray, 1.7 kg, With MS Office)|0.0|1749
+491|DELL 3000 Core i3 11th Gen - (8 GB/1 TB HDD/Windows 11 Home) 3511 Laptop  (15.6 inch, Platinum Silver, With MS Office)|4.0|499
+492|acer Intel EVO Swift 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) SF314-511 Thin and Light Laptop  (14 inch, Pure Silver, 1.2 kg, With MS Office)|4.5|749
+493|HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 14-ec0037AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|4.0|749
+494|HP Ryzen 7 Octa Core 5700U - (8 GB/512 GB SSD/Windows 10 Home) 14s-fq1083AU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 kg, With MS Office)|4.4|693
+495|ASUS ROG Zephyrus G14 Ryzen 7 Octa Core Ryzen 7-4800HS 4th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GA401IHR-K2067TS Gaming Laptop  (14 inch, White, 1.6 Kg, With MS Office)|5.0|1017
+496|Lenovo Legion 5 Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) 15ACH6H Gaming Laptop  (15.6 inch, Phantom Blue, Shadow Black, 2.4 kg, With MS Office)|0.0|1724
+497|Lenovo Yoga 6 Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 11 Home) 13ALC6 2 in 1 Laptop  (13.3 inch, Abyss Blue, 1.32 kg, With MS Office)|4.7|974
+498|ASUS ROG Zephyrus G14 Ryzen 7 Octa Core Ryzen 7-4800HS 4th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) GA401IHR-HZ070TS Gaming Laptop  (14 inch, Grey, 1.6 Kg, With MS Office)|0.0|962
+499|ASUS ROG Zephyrus 14 Ryzen 7 Octa Core AMD Ryzen 7 5800H 5th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) GA401QH-HZ077TS Gaming Laptop  (14 inch, White, 1.6 kg, With MS Office)|0.0|1087
+500|Lenovo IdeaPad 3 Celeron Dual Core - (4 GB/256 GB SSD/Windows 10 Home) 14IGL05 Thin and Light Laptop  (14 inch, Platinum Grey, 1.5 Kg)|0.0|383
+501|Lenovo Celeron Dual Core - (4 GB/1 TB HDD/DOS) V15-IGL Laptop  (15.6 inch, Grey, 1.85 kg)|3.1|374
+502|MSI Pulse GL66 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070) Pulse GL66 11UGK-431IN Gaming Laptop  (15.6 Inch, Gray, 2.25 kg)|4.3|1499
+503|DELL Inspiron Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon, 1.85 kg, With MS Office)|3.7|512
+504|MSI Katana GF66 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti) Katana GF66 11UD-876IN Gaming Laptop  (15.6 Inch, Black, 2.25 kg)|4.5|912
+505|Lenovo Yoga 6 Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) Yoga 6 Thin and Light Laptop  (13.3 inch, Abyss_blue, 1.31 kg, With MS Office)|0.0|934
+506|Lenovo V15 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) V15 G2 ITL Thin and Light Laptop  (15.6 inch, Iron Grey)|0.0|549
+507|APPLE 2021 Macbook Pro M1 Pro - (16 GB/1 TB SSD/Mac OS Monterey) MKGQ3HN/A  (14.2 inch, Space GreyUnknown, 1.6 kg)|4.8|2824
+508|Lenovo Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX NVIDIA GeForce GTX 1650 4GB GDDR6) 81Y40183IN Gaming Laptop  (15.6 inch, Onyx Black)|0.0|787
+509|ASUS ROG Strix G15 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) G513IH-HN081T Gaming Laptop  (15.6 inch, Electro Punk, 2.10 kg)|0.0|949
+510|acer Nitro 5 Ryzen 7 Octa Core 5800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti) AN515-45/ AN515-45-R3FB Gaming Laptop  (15.6 inch, Shale Black, 2.4 kg)|4.5|1012
+511|HP Spectre x360 14 Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) 14-ea0541TU 2 in 1 Laptop  (13.5 inch, Nightfall Black, 1.34 Kg)|0.0|1612
+512|HP Pavilion x360 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dy0002TU Thin and Light Laptop  (14 inch, Natural Silver, 1.52 kg, With MS Office)|4.4|749
+513|HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 10 Home) 14-ec0033AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|4.4|748
+514|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15IIL05 Laptop  (15.6 inch, Platinum Grey, 1.85 kg, With MS Office)|0.0|548
+515|ASUS Ryzen 7 Octa Core 4th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX GTX1650- 4GB) G513IH-HN081T Gaming Laptop  (15.6 inch, Electro Punk)|0.0|937
+516|acer Extensa 15 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) EX215-54 Thin and Light Laptop  (15.6 inch, Charcoal Black)|4.3|468
+517|Lenovo Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 81WD010TIN Laptop  (12 inch, Blue, With MS Office)|0.0|483
+518|acer Aspire Athlon Dual Core 3050U - (4 GB/256 GB SSD/Windows 10 Home) A315-23 Laptop  (15.6 inch, Pure Silver, 1.9 kg)|4.2|399
+519|Lenovo Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 81WB010XIN Laptop  (15.6 inch, Platinum Grey, With MS Office)|5.0|512
+520|DELL Inspiron Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Accent Black, 1.85 kg, With MS Office)|3.9|532
+521|DELL Insprion 3511 Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) D560567WIN9B Laptop  (15.6 inch, Carbon Black, With MS Office)|3.8|536
+522|Lenovo IdeaPad 3 Chromebook Celeron Dual Core 4th Gen - (4 GB/64 GB EMMC Storage/Chrome OS) 14IGL05 Chromebook  (14 inch, Platinum Grey, 1.4 kg)|2.8|312
+523|DELL G15 Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5515 Gaming Laptop  (15.6 Inch, Phantom Grey, 2.4 kg, With MS Office)|4.6|1049
+524|Lenovo Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10) 81WB011NIN Laptop  (15.6 inch, Platinum Grey, With MS Office)|4.0|524
+525|HP OMEN Ryzen 9 Octa Core 5900H - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/AMD Radeon RX 6600M) 16-C0141AX Gaming Laptop  (16.1 inch, Mica Silver, 2.23 kg, With MS Office)|0.0|1737
+526|ASUS Vivobook 15 Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) X515EP-BQ512TS Thin and Light Laptop  (15.6 inch, Transparent Silver, With MS Office)|4.4|705
+527|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) D560587WIN9S Laptop  (15.6 inch, Platinum Silver, With MS Office)|3.3|868
+528|DELL G15 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10/6 GB Graphics/NVIDIA GeForce RTX 3060/120 Hz) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.4 Kg, With MS Office)|0.0|1687
+529|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon, 1.85 kg, With MS Office)|3.8|887
+530|Nokia PureBook S14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) NKi511TL85S Thin and Light Laptop  (14 inch, Black, 1.4 KG)|4.1|574
+531|Nokia PureBook S14 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) NKi511TL165S Thin and Light Laptop  (14 inch, Black, 1.4 KG)|4.0|624
+532|DELL Vostro Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.58 Kg, With MS Office)|4.3|524
+533|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 Kg, With MS Office)|4.6|1037
+534|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5418 Thin and Light Laptop  (14 inch, Platinum Silver, 1.46 Kg, With MS Office)|4.0|888
+535|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 Kg, With MS Office)|4.6|924
+536|DELL Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10) Inspiron 3511 Thin and Light Laptop  (14.96 inch, Platinum Silver, 1.85 kg, With MS Office)|3.3|517
+537|DELL G15 Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5515 Gaming Laptop  (15.6 Inch, Phantom Grey, 2.4 kg, With MS Office)|4.6|1043
+538|DELL Core i3 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.85 kg, With MS Office)|2.9|586
+539|DELL Athlon Dual Core 3050U - (4 GB/256 GB SSD/Windows 10) Inspiron 3505 Thin and Light Laptop  (15.6 Inch, Soft Mint, 1.83 kg, With MS Office)|4.3|481
+540|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15IIL05 Laptop  (15.6 inch, Platinum Grey, 1.85 kg, With MS Office)|4.4|487
+541|HP Spectre x360 13 Series Intel EVO Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 13-aw2003TU Thin and Light Laptop  (13.3 inch, Poseidon Blue, 1.27 kg, With MS Office)|5.0|1312
+542|DELL Inspiron Core i3 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon, 1.85 kg, With MS Office)|4.1|556
+543|DELL Inspiron Ryzen 5 Quad Core 3450U - (8 GB/256 GB SSD/Windows 10) Inspiron 3505 Notebook  (15.6 Inch, Soft Mint, 1.83 KG, With MS Office)|4.3|531
+544|Nokia PureBook S14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) NKi510TL85S Thin and Light Laptop  (14 inch, Black, 1.4 KG)|4.3|499
+545|HP HP Envy Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) 14-eb0019TX Thin and Light Laptop  (14 inch, Natural Silver, 1.59 Kg, With MS Office)|0.0|989
+546|DELL Vostro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Vostro 3000 Thin and Light Laptop  (14 inch, Accent Black, 1.58 Kg, With MS Office)|4.1|773
+547|DELL G15 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050Ti/120 Hz) G15-5511 Gaming Laptop  (15.6 inch, Dark Shadow Grey, 2.4 Kg, With MS Office)|4.5|1362
+548|DELL Vostro Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 inch, Accent Black, 1.58 Kg, With MS Office)|3.8|624
+549|DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop  (14 inch, Platinum Silver, 1.5 kg, With MS Office)|4.2|1012
+550|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) Inspiron 3511 Thin and Light Laptop  (15.6 inch, Carbon, 1.85 kg, With MS Office)|4.1|618
+551|HP Spectre x360 14 Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Pro) 14-ea0542TU 2 in 1 Laptop  (13.5 inch, Nightfall Black, 1.34 Kg)|0.0|1449
+552|ASUS Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515JA-EJ502T Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg)|4.0|562
+553|ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) GV301QC-K6100TS 2 in 1 Gaming Laptop  (13.4 inch, Off&Black, 1.30 Kg, With MS Office)|4.1|1662
+554|ASUS VivoBook K15 OLED (2022) Ryzen 5 Hexa Core 5500U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) KM513UA-L503TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.4|737
+555|ASUS VivoBook K15 OLED (2022) Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) K513EA-L302TS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|4.5|587
+556|ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/120 Hz) GV301QE-K6153TS 2 in 1 Gaming Laptop  (13.4 inch, Off&Black, 1.30 Kg, With MS Office)|4.3|1787
+557|ASUS ROG Strix Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/300 Hz) G513QE-HF145T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 kg)|4.6|1474
+558|ASUS Zephyrus M16 (2021) Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX RTX 3060) GU603HM-K8073TS Gaming Laptop  (16 inch, Off Black, 1.90 kg, With MS Office)|4.4|1937
+559|ASUS VivoBook K15 OLED (2021) Core i5 11th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home) K513EA-L523TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.4|849
+560|ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/60 Hz) GV301QE-K5152TS 2 in 1 Gaming Laptop  (13.4 inch, Off&Black, 1.30 Kg, With MS Office)|0.0|1962
+561|ASUS Zephyrus M16 (2021) Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050) GU603HE-KR051TS Gaming Laptop  (16 inch, Off Black, 1.90 Kg kg, With MS Office)|0.0|1624
+562|Lenovo Legion 5 Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15ACH6 Gaming Laptop  (15.6 inch, Phantom Blue, Shadow Black, 2.4 kg)|4.6|939
+563|Lenovo IdeaPad Gaming 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IHU6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg)|3.8|824
+564|Lenovo IdeaPad 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15ITL6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.3|649
+565|Lenovo Legion 5 Pro Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) 16ITH6H Gaming Laptop  (16 inch, Stingray, With MS Office)|4.5|1974
+566|Lenovo IdeaPad 3 Celeron Dual Core 4th Gen - (4 GB/256 GB SSD/Windows 11 Home) 14IGL05 Thin and Light Laptop  (14 inch, Platinum Grey, 1.5 kg, With MS Office)|4.1|374
+567|Lenovo IdeaPad 5 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 14ITL05 Thin and Light Laptop  (14 inch, Graphite Grey, With MS Office)|4.3|774
+568|Lenovo Yoga 6 Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 10 Home) 13ALC6 Thin and Light Laptop  (13.3 inch, Abyss Blue, 1.31 kg, With MS Office)|0.0|949
+569|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14IML05 Thin and Light Laptop  (14 inch, Platinum Grey, With MS Office)|4.2|437
+570|Lenovo Legion 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Phantom Black, 2.3 kg)|4.6|762
+571|Lenovo IdeaPad 5 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) 15ITL05 Thin and Light Laptop  (15.6 inch, Graphite Grey, With MS Office)|4.5|1211
+572|HP Ryzen 3 Hexa Core 4th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650) 15-EC2008AX Gaming Laptop  (15.6 inch, Shadow Black, With MS Office)|0.0|818
+573|ASUS Vivobook 15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X515EA-BQ522TS Laptop  (15.6 inch, Transparent Silver, 1.75 kg, With MS Office)|4.0|671
+574|HP Pavilion Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 14-ec0035AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 Kg, With MS Office)|4.4|737
+575|HP Pavilion Gaming Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-DK2012TX Gaming Laptop  (15.6 inch, Shadow Black & Ultra Violet, 2.23 kg, With MS Office)|0.0|949
+576|Lenovo Thinkbook Convertible Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) TB14s ITL Yoga 2 in 1 Laptop  (14 inch, Mineral Grey, 1.5 kg, With MS Office)|4.2|1062
+577|Lenovo ThinkBook 13s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) TB13s ITL Gen 2 Thin and Light Laptop  (13 inch, Mineral Grey, 1.26 kg, With MS Office)|4.2|687
+578|Lenovo ThinkBook 13s Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) TB13s ITL Gen 2 Thin and Light Laptop  (13 inch, Mineral Grey, 1.26 kg, With MS Office)|4.3|762
+579|Lenovo Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) V15 ITL G2 Thin and Light Laptop  (15 inch, Black, 1.7 kg, With MS Office)|4.3|487
+580|Lenovo Thinkpad Ryzen 5 Hexa Core 5600U - (8 GB/512 GB SSD/DOS) E14 AMD Gen3 Thin and Light Laptop  (14 inch, Black, 1.69 kg)|4.3|712
+581|Lenovo ThinkBook 13s Core i5 11th Gen - (8 GB/1 TB SSD/Windows 10 Home) TB13s ITL Gen 2 Thin and Light Laptop  (13.3 inch, Mineral Grey, 2.023 kg, With MS Office)|3.2|737
+582|Lenovo ThinkBook 13s Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) TB13s ITL Gen 2 Thin and Light Laptop  (13 inch, Mineral Grey, 1.26 kg, With MS Office)|3.6|1074
+583|HP Pavilion Gaming Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-DK2076TX Gaming Laptop  (15.6 Inch, Shadow Black & Ultra Violet, 2.23 kg, With MS Office)|4.5|1223
+584|Lenovo Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) V14 ITL G2 Thin and Light Laptop  (14 inch, Iron Grey, 1.6 kg, With MS Office)|4.4|687
+585|RedmiBook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Thin and Light Laptop  (15.6 Inch, Charcoal Gray, 1.8 kg, With MS Office)|4.2|543
+586|Lenovo Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) V15 -ADA Laptop  (15.6 inch, Iron Grey, 1.85 kg)|3.2|431
+587|acer Dual Core A3020e - (4 GB/256 GB SSD/Windows 10 Home) EX215-22 Laptop  (15.6 inch, Black, 1.9 kg)|4.0|399
+588|HP Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 10 Home) 15s-GY0501AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)|4.3|424
+589|HP Pavilion Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14-EC0007AX Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|3.5|1004
+590|HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14-ec0000AX Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|4.2|812
+591|HP HP Envy Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/2 GB Graphics) 13-ba1505TX Thin and Light Laptop  (13.3 inch, Natural Silver, 1.30 kg, With MS Office)|3.7|1161
+592|Lenovo Legion 5 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) 15ITH6 Gaming Laptop  (15.6 inch, Phantom Blue, Shadow Black, 2.4 Kg, With MS Office)|4.0|1474
+593|Lenovo IdeaPad Gaming 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15IHU6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)|3.8|824
+594|Lenovo IdeaPad 5 Pro Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14ITL6 Thin and Light Laptop  (14 Inch, Storm Grey, 1.41 kg, With MS Office)|4.2|874
+595|Lenovo IdeaPad 3 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg, With MS Office)|4.3|681
+596|Lenovo IdeaPad Flex 3 Chromebook Celeron Dual Core - (4 GB/128 GB EMMC Storage/Chrome OS) CB 11IJL6 Chromebook  (11.6 inch, Arctic Grey, 1.25 kg)|3.5|356
+597|Lenovo IdeaPad 3 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg, With MS Office)|4.1|574
+598|acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050ti/165 Hz) PH315-54 Gaming Laptop  (15.6 inch, Abyssal Black, 2.3 kg)|4.5|1199
+599|ASUS VivoBook 15 (2022) Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X515EA-EJ302TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|437
+600|acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050ti/165 Hz) PH315-54 Gaming Laptop  (15.6 inch, Abyssal Black, 2.3 kg)|4.5|1199
+601|ASUS VivoBook 15 (2022) Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X515EA-EJ302TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|437
+602|ASUS Zenbook 14 (2021) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX425EA-KI501TS Thin and Light Laptop  (14 inch, Pine Grey, 1.17 kg, With MS Office)|4.7|912
+603|ASUS VivoBook 15 (2022) Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) X515EA-EJ502TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|637
+604|ASUS Ryzen 3 Dual Core 3250U 3rd Gen - (8 GB/256 GB SSD/Windows 10 Home) M515DA-BQ322TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|449
+605|acer Aspire 5 Core i5 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) A514-54 Thin and Light Laptop  (14 inch, Pure Silver, 1.55 kg)|3.8|562
+606|acer Aspire 3 Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) A315-23 Notebook  (15.6 inch, Pure Silver, 1.9 Kg)|4.4|556
+607|acer Aspire 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A515-56-51EV Thin and Light Laptop  (15.6 inch, Pure Silver, 1.65 kg, With MS Office)|4.2|662
+608|acer Aspire 5 Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) A515-56 Thin and Light Laptop  (15.6 inch, Pure Silver, 1.65 kg, With MS Office)|3.9|666
+609|acer Aspire 5 Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) A515-56-56LN Thin and Light Laptop  (15.6 inch, Pure Silver, 1.65 kg, With MS Office)|4.4|687
+610|ASUS TUF Gaming A15 Ryzen 7 Octa Core 4800H - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FA566IC-HN008T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.30 kg)|4.7|1149
+611|ASUS Strix G15 Ryzen 7 Octa Core AMD Ryzen 7 4800H 4th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) G513IH-HN084TS Gaming Laptop  (15.6 inch, Black, 2.30 Kg, With MS Office)|4.7|962
+612|acer Travelmate Core i5 11th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home) TravelMate P214-53 Thin and Light Laptop  (14 inch, Black, 1.68 kg)|3.4|781
+613|DELL Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10) Inspiron 5410 2 In1 2 in 1 Laptop  (14 Inch, Platinum Silver, 1.56 kg, With MS Office)|4.3|874
+614|ASUS Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X409FA-BV301T Thin and Light Laptop  (14 inch, Slate Grey, 1.60 kg)|3.7|437
+615|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg, With MS Office)|4.3|437
+616|Lenovo IdeaPad 3 Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) CB 11IGL05 Chromebook  (11.6 Inch, Onyx Black, 1.12 kg)|3.5|199
+617|ASUS Rog Strix G15 Ryzen 9 Octa Core AMD Ryzen 9 5900H Processor 3.0 GHz (16M Cache, up to 4.6 GHz) 5th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti/300 Hz) G513QE-HF146T Gaming Laptop  (15.6 inch, Electro Punk, 2.30 Kg)|0.0|1624
+618|MSI Modern 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-639IN Notebook  (14 inch, Carbon Grey, 1.3 Kg)|4.4|574
+619|MSI Modern 14 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) B11MOU-477IN Notebook  (14 inch, Carbon Grey, 1.3 Kg)|4.2|581
+620|MSI Modern 14 Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MOU-473IN Notebook  (14 inch, Carbon Grey, 1.3 Kg)|4.3|749
+621|MSI Modern 14 Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Modern 14 B11SBU-496IN Notebook  (14 inch, Carbon Grey, 1.3 Kg)|3.5|1007
+622|MSI Modern 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MOU-637IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 kg)|4.3|587
+623|ASUS ASUS TUF Gaming Core i5 11th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FX506HCB-HN228T Gaming Laptop  (15.6 inch, Graphite Black, 2.30 kg)|4.5|949
+624|ASUS ASUS TUF Gaming Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FX706HCB-HX162T Gaming Laptop  (17.3 inch, Graphite Black, 2.60 kg)|4.5|899
+625|ASUS ASUS TUF Gaming Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FX506HCB-HN225T Gaming Laptop  (15.6 inch, Graphite Black, 2.30 kg)|4.5|1299
+626|ASUS Vivobook Gaming Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) F571LH-BQ429T Gaming Laptop  (15.6 inch, Star Black, 2.14 kg)|4.4|787
+627|ASUS Vivobook Gaming Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) F571GT-HN1062T Gaming Laptop  (15.6 inch, Star Black, 2.14 kg)|4.3|724
+628|ASUS Vivobook Gaming Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) F571LH-BQ436T Gaming Laptop  (15.6 inch, Star Black, 2.14 kg)|4.5|799
+629|ASUS ROG Zephyrus G14 Ryzen 7 Octa Core 4800HS - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GA401IHR-K2066TS Gaming Laptop  (14 inch, Eclipse Gray, 1.60 Kg)|4.6|937
+630|ASUS Vivobook Gaming Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) F571LH-AL434T Gaming Laptop  (15.6 inch, Star Black, 2.14 kg)|4.2|862
+631|ASUS ASUS TUF Gaming Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FX706HCB-HX191T Gaming Laptop  (17.3 inch, Graphite Black, 2.60 kg)|4.5|1187
+632|ASUS ASUS TUF Gaming Ryzen 7 Octa Core 4800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) FA766IC-HX005T Gaming Laptop  (17.3 inch, Eclipse Gray, 2.60 kg)|4.5|1012
+633|ASUS ROG Zephyrus G15 Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) GA503QM-HQ173TS Gaming Laptop  (15.6 inch, Eclipse Gray, 1.90 Kg, With MS Office)|4.3|1749
+634|ASUS Vivobook Gaming Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) F571LH-BQ435T Gaming Laptop  (15.6 inch, Star Black, 2.14 kg)|4.1|849
+635|ASUS Ryzen 5 Hexa Core - (8 GB/512 GB HDD/512 GB SSD/Windows 10 Home) M515UA-BQ512TS Laptop  (15.6 inch, Transparent Silver, 1.6 kg, With MS Office)|0.0|609
+636|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15ITL6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 Kg, With MS Office)|4.4|606
+637|Lenovo Yoga Slim 7 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14ITL05 Thin and Light Laptop  (14 inch, Slate Grey, 1.36 kg, With MS Office)|0.0|1037
+638|Lenovo IdeaPad 5 Pro Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Ideapad 5 Pro14ITL6 U Thin and Light Laptop  (14 inch, Storm Grey, 1.38 kg, With MS Office)|4.5|874
+639|ASUS Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515EA-BQ391TS Laptop  (15.6 inch, Transparent Silver, 1.6 kg, With MS Office)|3.0|518
+640|ASUS Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) M515UA-BQ512TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.8 kg, With MS Office)|4.4|595
+641|ASUS ROG Strix G15 Ryzen 9 Octa Core AMD Ryzen 9 5900H Processor 3.0 GHz (16M Cache, up to 4.6 GHz) 5th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti/300 Hz) G513QE-HF144T Gaming Laptop  (15.6 inch, Black, 2.30 Kg)|0.0|1499
+642|MSI GF63 Thin Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) GF63 Thin 10UC-607IN Gaming Laptop  (15.6 inch, Black, 1.86 kg)|4.5|874
+643|MSI GF65 Thin Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) GF65 Thin 10UE-410IN Gaming Laptop  (15.6 inch, Black, 1.86 kg)|4.4|1037
+644|HP Pavilion Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 15-eh1101AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|4.5|699
+645|HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 10 Home) 15-eh1103AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)|4.4|856
+646|MSI Katana GF66 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) Katana GF66 11UC-628IN Gaming Laptop  (15.6 inches, Black, 2.25 kg)|4.4|1062
+647|MSI GF63 Thin Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) GF63 Thin 10UC-606IN Gaming Laptop  (15.6 inch, Black, 1.86 kg)|4.5|999
+648|HP HP Envy Intel EVO Core i5 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) 14-eb0020TX Thin and Light Laptop  (14 inch, Natural Silver, 1.59 Kg, With MS Office)|0.0|1239
+649|MSI Alpha 15 Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/AMD Radeon RX6600M/144 Hz) Alpha 15 B5EEK-029IN Gaming Laptop  (15.6 inch, Black, 2.35 kg)|4.7|1187
+650|ASUS Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X509FA-BR301T Thin and Light Laptop  (15.6 inch, Transperant Silver, 1.80 kg)|3.8|387
+651|ASUS Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X409FA-EB616T Thin and Light Laptop  (14 inch, Slate Grey)|3.6|411
+652|acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) PH315-54 Gaming Laptop  (15.6 inch, Abyssal Black, 2.3 kg)|4.5|1412
+653|ASUS F17 Core i5 11th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) FX766HC-HX060T Gaming Laptop  (17.3 inch, Eclipse Gray, 2.6 KG)|4.3|1037
+654|HP HP Envy Ryzen 7 Octa Core 4700U - (16 GB/1 TB SSD/Windows 10 Home) 13-ay0508au Thin and Light Laptop  (13.3 inch, Nightfall Black, 1.32 Kg, With MS Office)|3.7|1136
+655|ASUS Vivobook 15 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X515EA-BQ312TS Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|474
+656|ASUS Vivobook 15 Core i5 11th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) X515EA-BQ562TS Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.5|662
+657|ASUS ZenBook Duo 14 (2021) Touch Panel Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) UX482EA-HY777TS Thin and Light Laptop  (14 inch, Celestial Blue, 1.57 kg, With MS Office)|4.8|1499
+658|Lenovo IdeaPad Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) IdeaPad 5 15ALC05 Thin and Light Laptop  (15.6 inch, Graphite Grey, 1.66 kg, With MS Office)|4.3|662
+659|Lenovo IdeaPad Gaming Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) IdeaPad Gaming 3 15IMH05 Gaming Laptop  (15.6 Inch, Onyx Black, 2.2 KG)|4.0|824
+660|Lenovo IdeaPad Gaming 3i Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) IPG3-15IHU6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg)|3.9|1112
+661|MSI GS66 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/165 Hz) GS66 Stealth 11UG-418IN Gaming Laptop  (15.6 inch, Black, 2.1 Kg)|0.0|2591
+662|ASUS ROG Strix Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060) G513QM-HF406TS Gaming Laptop  (15.6 inch, Eclipse Gray, 2.30 kg)|4.6|1849
+663|ASUS ROG Strix Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) G513IC-HN025T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 kg)|4.6|1037
+664|realme Book(Slim) Intel Evo Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) RMNB1002 Thin and Light Laptop  (14 inch, Real Gray, 1.38 kg, With MS Office)|4.4|699
+665|realme Book (Slim) Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) RMNB1001 Thin and Light Laptop  (14 inch, Real Gray, 1.38 kg, With MS Office)|4.4|537
+666|ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) G513IH-HN086T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 Kg)|4.5|962
+667|realme Book(Slim) Intel Evo Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) RMNB1002 Thin and Light Laptop  (14 inch, Real Blue, 1.38 kg, With MS Office)|4.4|699
+668|HP Pavilion Gaming Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-DK2075TX Gaming Laptop  (15.6 inches, Shadow Black & Ultra Violet, 2.23 kg, With MS Office)|4.4|1062
+669|ASUS ASUS TUF Dash Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX RTX) FX516PC-HN077T Gaming Laptop  (15.6 inch, Moonlight White, 2.00 kg)|0.0|1074
+670|ASUS Vivobook Ultra K14 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) K413EA-EB522TS Thin and Light Laptop  (14 inch, Indie Black, 1.4 kg, With MS Office)|3.2|798
+671|HP Pavilion Aero Ryzen 5 Hexa Core 5600U - (16 GB/512 GB SSD/Windows 10 Home) 13-BE0030AU Thin and Light Laptop  (13.3 inch, Natural Silver, 0.97 kg, With MS Office)|4.3|806
+672|HP HP Envy Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 13-ba1501TX Thin and Light Laptop  (13.3 inch, Natural Silver, 1.30 kg, With MS Office)|4.5|969
+673|DELL Insprion 3501 Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) D560423WIN9S Laptop  (15.6 inch, Accent Black, With MS Office)|4.2|543
+674|ASUS Vivobook 14 Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X409FA-EK617T Thin and Light Laptop  (14.1 inch, Slate Grey, 1.6 kg)|3.2|424
+675|HP Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-DU1516TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.74 kg, With MS Office)|4.3|531
+676|ASUS Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) X515EP-EJ512TS Thin and Light Laptop  (15.6 inch, Silver, With MS Office)|5.0|699
+677|MSI Pulse GL66 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/144 Hz) Pulse GL66 11UDK-627IN Gaming Laptop  (15.6 inches, Grey, 2.25 kg)|4.6|1356
+678|MSI GP76 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/240 Hz) GP76 Leopard 11UG-609IN Gaming Laptop  (17.3 inches, Black, 2.9 kg)|4.4|2249
+679|acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) ph315-54-78cp/ph315-54 Gaming Laptop  (15.6 inches, Abyssal Black, 2.3 kg)|4.5|1624
+680|ASUS ROG Strix G15 (2021) Advantage Edition Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/12 GB Graphics/AMD Radeon RX 6800M) G513QY-HQ008TS Gaming Laptop  (15.6 inch, Original Black, 2.50 kg, With MS Office)|4.6|1937
+681|HP Pavilion Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-ec2004AX Gaming Laptop  (15.6 inch, Shadow Black, 1.98 kg)|4.5|724
+682|ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) G513IH-HN086T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 Kg)|4.5|887
+683|ASUS Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) K513EP-BQ512TS Laptop  (15.6 inch, Black, With MS Office)|0.0|787
+684|Lenovo Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 81WA00K1IN Laptop  (14 inch, Platinum Grey, With MS Office)|5.0|512
+685|RedmiBook Pro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Thin and Light Laptop  (15.6 inch, Charcoal Gray, 1.8 kg, With MS Office)|4.2|612
+686|RedmiBook 15 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) Thin and Light Laptop  (15.6 inch, Charcoal Gray, 1.8 kg, With MS Office)|4.2|512
+687|MSI Modern 14 Ryzen 5 Hexa Core 4500U - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B4MW-423IN Thin and Light Laptop  (14 inch, Carbon Grey, 1.3 Kg)|4.5|562
+688|HP Pavilion Gaming Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 hz) 15-DK2100TX Gaming Laptop  (15.6 inches, Shadow Black & Ultra Violet, 2.28 kg, With MS Office)|4.3|849
+689|ASUS Ryzen 7 Octa Core 5800U - (16 GB/1 TB SSD/Windows 10 Home) UM325SA-KG701TS Thin and Light Laptop  (13.3 inch, Pine Grey, 1.14 Kg, With MS Office)|3.0|1062
+690|DELL Vostro Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10) VOSTRO 3400 Thin and Light Laptop  (14.96 Inch, Accent Black, 1.58 kg, With MS Office)|4.1|487
+691|acer Aspire 5 Ryzen 5 Hexa Core AMD Ryzen 5-5500U hexa-core - (8 GB/512 GB SSD/Windows 10 Home) A515-45 Thin and Light Laptop  (15.6 inch, Pure Silver, 1.76 kg, With MS Office)|4.4|649
+692|acer Swift 3 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) SF314-43 Thin and Light Laptop  (14 inch, Pure Silver, 1.2 kg, With MS Office)|4.6|706
+693|ASUS Ryzen 5 Hexa Core 5600U - (16 GB/512 GB SSD/Windows 10 Home) UM325SA-KG502TS Thin and Light Laptop  (13.3 inch, Pine Grey, 1.14 Kg, With MS Office)|0.0|937
+694|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) Inspiron 3511 Laptop  (15.6 inches, Platinum Silver, 1.85 kg, With MS Office)|3.8|863
+695|DELL Vostro Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 inches, Dune, 1.58 kg, With MS Office)|3.9|524
+696|DELL Vostro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Vostro 3400 Thin and Light Laptop  (14 inches, Dune, 1.58 kg, With MS Office)|3.8|677
+697|Lenovo Ideapad Slim 3i Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Ideapad Slim 3 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.39 kg, With MS Office)|3.3|737
+698|DELL Vostro Core i3 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10 Home) Vostro 3400 Thin and Light Laptop  (14 inch, Accent Black, 1.58 kg, With MS Office)|3.9|437
+699|HP Pavilion Aero Ryzen 5 Hexa Core 5600U - (16 GB/512 GB SSD/Windows 10 Home) 13-BE0190AU Thin and Light Laptop  (13.3 inches, Pale Rose Gold, 0.97 kg, With MS Office)|4.5|823
+700|HP 15s Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 10 Home) 15s- EQ2042AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 Kg, With MS Office)|4.3|511
+701|MSI Bravo Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/AMD Radeon RX5500M/144 Hz) Bravo 15 B5DD-043IN Gaming Laptop  (15.6 inch, Black, 2.35 Kg)|4.5|868
+702|ASUS VivoBook Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) K513EP-BQ513TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.8 KG, With MS Office)|5.0|799
+703|Lenovo Ideapad Slim 3i Core i5 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) Ideapad Slim 3 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.39 kg, With MS Office)|2.8|702
+704|ASUS Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10) K513EA- BQ302TS K513EA, Laptop  (15.6 inch, 2k- Indie Black_Amet, With MS Office)|5.0|517
+705|Lenovo IdeaPad Gaming Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) IdeaPad Gaming 3 15IMH05 Gaming Laptop  (15.6 Inch, Onyx Black, 2.2 KG)|4.5|956
+706|ASUS Core i3 10th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) X515JA-EJ362TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.4|524
+707|ASUS Core i3 10th Gen - (4 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) X515JA-EJ372TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.3|487
+708|ASUS Core i5 10th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) X515JA-EJ562TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.3|624
+709|ASUS Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X515JF-BQ521T Thin and Light Laptop  (15.6 inch, Slate Grey, 1.80 Kg)|4.3|649
+710|HP Ryzen 5 Quad Core 3500U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14s-dk0501AU Thin and Light Laptop  (14 inch, Natural Silver, 1.51 kg, With MS Office)|4.4|662
+711|DELL Vostro Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10) Vostro 3401 Thin and Light Laptop  (14 Inch, Dune, 1.58 KG, With MS Office)|3.8|512
+712|Lenovo Core i5 11th Gen - (4 GB/512 GB SSD/Windows 10) 82H700J7IN Laptop  (14 inch, Arctic Grey, With MS Office)|0.0|731
+713|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IML05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.7 kg, With MS Office)|4.1|462
+714|MSI Pulse GL66 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) Pulse GL66 11UEK-248IN Gaming Laptop  (15.6 inches, Grey, 2.25 kg)|4.6|1437
+715|"Lenovo IdeaPad 3 Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 81WB010XIN||81WB0112IN||81WB0158IN Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.7 kg, With MS Office)"|4.4|499
+716|Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IML05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.7 kg, With MS Office)|4.0|443
+717|Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15ITL6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.6 kg, With MS Office)|4.3|499
+718|Avita PURA APU Dual Core A6 - (4 GB/128 GB SSD/Windows 10 Home) NS14A6ING431-SGC Thin and Light Laptop  (14 inches, Shadow Grey, 1.34 kg)|3.7|268
+719|ASUS ROG Zephyrus G15 Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) GA503QM-HQ172TS Gaming Laptop  (15.6 inches, Moonlight White, 1.90 kg, With MS Office)|4.2|1774
+720|acer Travelmate Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) TravelMate P214-53 Notebook  (14 inches, Black, 1.68 Kg)|4.2|543
+721|acer Travelmate Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) TravelMate P214-53 Notebook  (14 inches, Black, 1.68 kg)|3.6|662
+722|HP 14s Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- ER0503TU Thin and Light Laptop  (14 Inch, Natural Silver, 1.49 KG, With MS Office)|4.1|673
+723|Lenovo Yoga Slim 7 Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop  (14 Inch, Slate Grey, 1.43 KG, With MS Office)|4.7|1174
+724|HP Chromebook MediaTek Kompanio 500 - (4 GB/64 GB EMMC Storage/Chrome OS) 11a-na0004MU Chromebook  (11.6 inch, Ash Grey, 1.07 Kg)|3.8|249
+725|Lenovo IdeaPad Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15 ITL 6 Thin and Light Laptop  (15.6 Inch, Arctic Grey, 1.65 KG, With MS Office)|4.1|712
+726|APPLE MacBook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) Z12A000D3  (13.3 inch, Gold, 1.29 kg)|4.7|1287
+727|APPLE MacBook Pro M1 - (8 GB/1 TB SSD/Mac OS Big Sur) Z11B0008S  (13.3 inch, Space Grey, 1.4 kg)|4.7|1874
+728|APPLE MacBook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) Z12400092  (13.3 inch, Space Grey, 1.29 kg)|4.7|1287
+729|Lenovo APU Dual Core A9 A99425 - (4 GB/1 TB HDD/DOS) E41-45 Notebook  (14 inch, Black, 2.2 Kg)|3.8|273
+730|HP OMEN 15 Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) 15-en1036AX Gaming Laptop  (15.6 inch, Mica Silver, 2.37 Kg)|4.5|1374
+731|ASUS Chromebook Flip Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) C214MA-BU0452 Chromebook  (11.6 inch, Dark Grey, 1.20 Kg)|4.1|274
+732|ASUS Chromebook Celeron Dual Core - (4 GB/32 GB EMMC Storage/Chrome OS) C223NA-GJ0074 Chromebook  (11.6 inch, Grey, 1 Kg)|3.5|249
+733|"ASUS Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) C523NA-BR0300| C523NA-BR0476 Chromebook  (15.6 inch, Silver, 1.43 Kg)"|3.8|256
+734|HP OMEN 15 Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070/165 Hz) 15-en1037AX Gaming Laptop  (15.6 inch, Mica Silver, 2.37 Kg)|4.8|1981
+735|ASUS Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) C423NA-BZ0522 Chromebook  (14 inch, Silver, 1.34 Kg)|4.1|287
+736|ASUS Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) C423NA-BV0523 Chromebook  (14 inch, Silver, 1.20 Kg)|3.9|249
+737|ASUS ROG Flow X13 (2021) Ryzen 9 Octa Core 5980HS - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) GV301QH-K5459TS 2 in 1 Gaming Laptop  (13.4 Inch, Off Black (Supernova), 1.3 KG, With MS Office)|5.0|2999
+738|ASUS Chromebook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) C523NA-A20303 Chromebook  (15.6 inch, Silver, 1.69 Kg)|4.0|299
+739|HP Pavilion Ryzen 7 Octa Core 5800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) 15-EC2076AX Gaming Laptop  (15.6 inches, Shadow Black, 1.98 kg, With MS Office)|4.6|1111
+740|ASUS EeeBook 12 Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 10 Home) E210MA-GJ011T Thin and Light Laptop  (11.6 inch, Peacock Blue, 1.05 Kg)|3.7|262
+741|Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.5|949
+742|ASUS Vivobook S14 Ryzen 5 Hexa Core Ryzen-5 5500U - (8 GB/1 TB SSD/Windows 10 Home) M433UA-EB584TS Thin and Light Laptop  (14.1 inch, Dreamy White, 1.4 kg, With MS Office)|0.0|862
+743|Lenovo APU Dual Core A9 A99425 - (4 GB/1 TB HDD/Windows 10) E41-45 Notebook  (14 inch, Black, 2.2 Kg)|3.7|338
+744|Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14 ITL 6 Thin and Light Laptop  (14 Inch, Arctic Grey, 1.41 KG, With MS Office)|4.3|637
+745|Lenovo Legion 5 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IMH05 Gaming Laptop  (15.6 Inch, Phantom Black, 2.3 KG)|4.5|818
+746|acer Nitro Ryzen 5 Hexa Core 5600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) AN515-45/AN515-45-R7Z1 Gaming Laptop  (15.6 Inch, Black, 2.4 KG)|4.5|912
+747|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5418 Thin and Light Laptop  (14 inches, Platinum Silver, 1.5 kg, With MS Office)|4.4|909
+748|DELL Vostro Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10) Vostro 5415 Thin and Light Laptop  (14 inch, Titan Grey, 1.5 Kg, With MS Office)|4.5|743
+749|ASUS ROG Strix G15(2021) Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) G513QE-HN108T Gaming Laptop  (15.6 Inch, Eclipse Gray, 2.1 KG)|4.7|1274
+750|ASUS VivoBook Ultra Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) KM413UA-EB501TS Thin and Light Laptop  (14 inch, Hearty Gold, 1.40 kg, With MS Office)|4.4|737
+751|Lenovo E41 APU Dual Core A6 A6-9225 - (4 GB/1 TB HDD/Windows 10) E41-45 Notebook  (14 Inch, Black, 2.2 KG)|2.8|350
+752|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop  (14 Inch, Platinum Silver, 1.56 KG, With MS Office)|4.5|1049
+753|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5518 Thin and Light Laptop  (15.3 Inch, Platinum Silver, 1.65 KG, With MS Office)|4.2|862
+754|DELL Inspiron Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10) Inspiron 5515 Thin and Light Laptop  (15.6 Inch, Silver, 1.64 KG, With MS Office)|4.5|743
+755|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5518 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.65 KG, With MS Office)|3.4|899
+756|DELL Inspiron 5518 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Inspiron 5518 Laptop  (15.6 inch, Silver, 1.65 kg, With MS Office)|0.0|898
+757|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 7400 Thin and Light Laptop  (14 Inch, Silver, 1.35 KG, With MS Office)|3.6|1112
+758|DELL XPS Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10) XPS 9310 Thin and Light Laptop  (13.4 inches, Platinum Silver, 1.27 kg, With MS Office)|0.0|2272
+759|ASUS VivoBook 17 Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 10 Home) M712UA-AU521TS Laptop  (17.3 inches, Transparent Silver, 2.30 kg, With MS Office)|2.7|975
+760|HP HP Pavilion Ryzen 5 Hexa Core 4600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650Ti/144 Hz) 15-ec1025AX Gaming Laptop  (15.6 inch, Shadow Black, 1.98 kg)|4.4|787
+761|DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop  (14 Inch, Silver, 1.56 KG, With MS Office)|3.6|987
+762|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop  (14 Inch, Platinum Silver, 1.56 KG, With MS Office)|4.5|886
+763|ASUS TUF Gaming F15 (2021) Core i7 11th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) FX506HC-HN095T Gaming Laptop  (15.6 Inch, Graphite Black, 2.3 KG)|3.7|1374
+764|MSI GF63 Thin Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Max Q/60 Hz) GF63 Thin 10SCXR-1618IN / GF63 Thin 10SC-612IN Gaming Laptop  (15.6 inch, Black, 1.86 KG)|4.1|693
+765|DELL G15 Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) G15-5510 / inspiron 5510 Gaming Laptop  (15.6 inches, Dark Shadow Grey, 2.4 kg)|4.5|938
+766|DELL G15 Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) G15-5510 / inspiron 5510 Gaming Laptop  (15.6 inches, Dark Shadow Grey, 2.4 kg, With MS Office)|4.4|962
+767|ASUS ROG Flow X13 (2021) Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GV301QH-K6464TS 2-in-1 2 in 1 Gaming Laptop  (13.4 Inch, Off Black, 1.3 KG, With MS Office)|4.4|1374
+768|ASUS TUF Gaming F17 (2021) Core i5 11th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) FX706HC-HX070T Gaming Laptop  (17.3 Inch, Graphite Black, 2.6 KG)|4.5|987
+769|DELL G15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) G15-5510 / inspiron 5510 Gaming Laptop  (15.6 inches, Dark Shadow Grey, 2.4 kg)|4.3|824
+770|MSI Stealth 15M Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) Stealth 15M A11UEK-227IN Gaming Laptop  (15.6 inch, Carbon Gray, 1.7 KG)|4.3|1612
+771|HP 15s Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-DU1066TU Thin and Light Laptop  (15.6 Inch, Jet Black, 1.76 KG, With MS Office)|4.1|462
+772|Lenovo Ideapad Slim 5i Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) ideapad slim 5 Thin and Light Laptop  (15.6 inch, Graphite Grey, 1.66 Kg, With MS Office)|4.3|737
+773|Lenovo Ideapad Slim 5i Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 15 ITL 05 Thin and Light Laptop  (15.6 Inch, Graphite Grey, 1.66 KG, With MS Office)|4.1|837
+774|DELL Vostro Core i3 10th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Black, 1.58 kg, With MS Office)|4.3|464
+775|HP 15-ec1105AX Ryzen 5 Hexa Core 4600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15-ec1105AX Gaming Laptop  (15.6 inch, Shadow Black & Ultra Violet, 1.98 Kg)|4.5|774
+776|DELL Inspiron Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10) Inspiron 7415 2 in 1 Laptop  (14 Inch, Pebble Green, 1.56 KG, With MS Office)|4.4|868
+777|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop  (14 Inch, Silver, 1.56 KG, With MS Office)|4.8|999
+778|Lenovo Ideapad Slim3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14 ITL 6 Thin and Light Laptop  (14 Inch, Arctic Grey, 1.41 KG, With MS Office)|4.4|643
+779|Lenovo Ideapad Slim 5i Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 15 ITL 05 Thin and Light Laptop  (15.6 Inch, Graphite Grey, 1.66 KG, With MS Office)|4.4|774
+780|MSI GF65 Thin Hexa Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) GF65 Thin 10UE-290IN Gaming Laptop  (15.6 inch, Black, 1.86 KG)|4.5|874
+781|MSI GF63 Thin Hexa Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Max Q/60 Hz) GF63 Thin 10SCXR-1616IN / GF63 Thin 10SC-611IN Gaming Laptop  (15.6 inch, Black, 1.86 KG)|4.4|687
+782|DELL DELL 5590 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 15 5590 Laptop  (15.6 inch, Silver, 1.8 kg, With MS Office)|0.0|812
+783|DELL GAMING G5 SERIES Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650Ti/120 Hz) G5 5500 Gaming Laptop  (15.6 inch, Black, 2.3 kg, With MS Office)|4.2|856
+784|Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) IdeaPad 3 15ITL6 Thin and Light Laptop  (15.6 Inch, Arctic Grey, 1.65 KG, With MS Office)|4.3|674
+785|Lenovo IdeaPad Slim 3i (2021) Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) IdeaPad 3 14ITL6 Thin and Light Laptop  (14 Inch, Arctic Grey, 1.41 KG, With MS Office)|4.4|547
+786|ASUS VivoBook Ultra K14 (2021) Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) KM413UA-EB503TS Thin and Light Laptop  (14 inch, Transparent Silver, 1.40 kg, With MS Office)|4.4|737
+787|Lenovo Ideapad Slim 5 Ryzen 7 Octa Core 5700U - (8 GB/512 GB SSD/Windows 10 Home) 14 ALC 05 Thin and Light Laptop  (14 Inch, Graphite Grey, 1.39 KG, With MS Office)|4.5|749
+788|acer Aspire 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) A515-56-5695 Thin and Light Laptop  (15.6 inch, Silver, 1.65 KG, With MS Office)|4.2|687
+789|HP Pavilion Gaming Ryzen 7 Octa Core 4800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce 1650Ti/144 Hz) 15-EC1512AX Gaming Laptop  (15.6 inch, Shadow Black, 2.19 kg, With MS Office)|4.5|949
+790|ASUS TUF Gaming F15 (2021) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) FX506HM-HN016T Gaming Laptop  (15.6 Inch, Graphite Black, 2.3 KG)|4.6|1124
+791|ASUS VivoBook Ultra Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) KM413UA-EB502TS Thin and Light Laptop  (14 inch, Indie Black, 1.40 kg, With MS Office)|4.5|737
+792|Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15ITL6 Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.4|724
+793|Lenovo ThinkPad Core i5 10th Gen - (16 GB/512 GB HDD/512 GB SSD/Windows 10 Pro) T14 Thin and Light Laptop  (14 Inch, Black, 1.55 KG)|0.0|1942
+794|Lenovo Yoga Slim 7 Intel EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Yoga Slim 7 14ITL05a Thin and Light Laptop  (14 Inches, Slate Grey, 1.36 KG, With MS Office)|4.6|1024
+795|Lenovo Yoga Slim 7 Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) Yoga Slim 7 14ITL05b Thin and Light Laptop  (14 inch, Slate Grey, 1.36 Kg, With MS Office)|4.4|1212
+796|Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15ITL6/ 15ITL6 Ub Thin and Light Laptop  (15.6 inch, Arctic Grey, 1.65 kg, With MS Office)|4.3|606
+797|ASUS Zephyrus G14 Ryzen 7 Octa Core AMD Ryzen 7 5800HS 5th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) GA401QC-HZ047TS Gaming Laptop  (14 inch, White, 1.60 Kg, With MS Office)|0.0|1380
+798|Lenovo Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) E15 Laptop  (15.6 Inch, Black, 1.7 kg, With MS Office)|3.5|1051
+799|Lenovo ThinkPad E15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) E15 Thin and Light Laptop  (15.6 Inch, Black, 1.7 kg, With MS Office)|4.7|849
+800|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10) 42V68PA Laptop  (15.6 inch, Black, 1.74 kg)|4.1|581
+801|Lenovo IdeaPad Gaming 3 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IMH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.3|674
+802|Lenovo Legion Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) Y540-15IRH-PG0 Gaming Laptop  (15.6 inch, Raven Black, 2.3 kg, With MS Office)|4.4|902
+803|ASUS VivoBook Ultra S14 Core i7 11th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) S433EA-AM702TS Thin and Light Laptop  (14 inch, Dreamy White, 1.40 Kg, With MS Office)|4.4|974
+804|Lenovo ThinkPad E15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) E15 Thin and Light Laptop  (15.6 Inch, Black, 1.7 kg, With MS Office)|4.1|824
+805|Lenovo Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) E15 Laptop  (15.6 Inch, Black, 1.7 kg, With MS Office)|4.4|974
+806|Lenovo ThinkPad Core i5 10th Gen - (8 GB/512 GB HDD/512 GB SSD/Windows 10 Pro) T14 Thin and Light Laptop  (14 Inch, Black, 1.55 KG)|0.0|1567
+807|ASUS VivoBook Ultra 17 Ryzen 5 Hexa Core - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) M712UA-AU501TS Thin and Light Laptop  (17.3 inch, Transparent Silver, 2.30 kg, With MS Office)|4.2|784
+808|ASUS ZenBook 13 (2021) OLED Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) UX325EA-KG701TS Thin and Light Laptop  (13.3 inch, Lilac Mist, 1.14 kg, With MS Office)|4.6|1287
+809|Lenovo V Series Athlon Dual Core 3050U - (4 GB/1 TB HDD/Windows 10 Home) V-15 ADA Laptop  (15.6 Inch, Iron Grey, 1.85 KG)|3.6|349
+810|Lenovo V Series Athlon Dual Core 3150U - (4 GB/1 TB HDD/Windows 10 Home) V-15 ADA Laptop  (15.6 Inch, Iron Grey, 1.85 KG)|3.8|348
+811|DELL XPS Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) XPS 13 9305 Thin and Light Laptop  (13.3 Inch, Platinum Silver, 1.16 KG, With MS Office)|0.0|1433
+812|ASUS Vivobook Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X415EA-EK302TS Thin and Light Laptop  (14 inch, Transparent Silver, 1.55 kg, With MS Office)|4.5|437
+813|DELL Vostro Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 Inch, Dune, 1.58 KG, With MS Office)|0.0|774
+814|DELL Vostro Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Accent Black, 1.58 kg, With MS Office)|4.3|450
+815|Lenovo IdeaPad Gaming 3 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IMH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.3|862
+816|Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.5|799
+817|Lenovo Ideapad Slim 5i Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL05U2a Thin and Light Laptop  (14 inch, Graphite Grey, 1.39 kg, With MS Office)|4.2|712
+818|"Lenovo Ideapad Slim 5 Ryzen 7 Octa Core 5700U - (16 GB/512 GB SSD/Windows 10 Home) 15ALC05 A|| 15ALC05 B Thin and Light Laptop  (15.6 inch, Graphite Grey, 1.66 kg, With MS Office)"|4.3|849
+819|Lenovo V15 Athlon Dual Core 3050U - (4 GB/1 TB HDD/DOS) V15 Laptop  (15.6 inch, Iron Grey, 1.85 kg)|3.8|349
+820|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti/144 Hz) FX506LI-HN271TS Gaming Laptop  (15.6 Inch, Black Plastic, 2.3 KG, With MS Office)|4.4|824
+821|DELL Vostro Core i3 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.58 kg, With MS Office)|4.1|539
+822|acer Aspire 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-75G-50TA/ A715-75G-41G/ A715-75G-52AA Gaming Laptop  (15.6 inch, Black, 2.15 Kg)|4.4|687
+823|ASUS ROG Strix G15 (2020) Octa Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti/144 Hz) G512LI-HN305T Gaming Laptop  (15.6 inch, Black Plastic, 2.30 Kg)|4.6|1157
+824|ASUS Zephyrus G14 Ryzen 5 Hexa Core AMD Ryzen 5 4600H 4th Gen - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX GTX 1650Ti/120 Hz) GA401II-HE233T Gaming Laptop  (14 inch, Moonlight White, 1.60 kg, With MS Office)|0.0|1056
+825|ASUS VivoBook Flip 14 (2022) Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 10 Home) TM420UA-EC501TS 2 in 1 Laptop  (14 inch, Bespoke Black, 1.50 kg, With MS Office)|4.4|787
+826|MSI GF65 Thin Hexa Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 1660 Ti/144 Hz) GF65 Thin 10SDR-1283IN Gaming Laptop  (15.6 inch, Black, 1.86 KG)|4.6|949
+827|ASUS ZenBook 14 Ryzen 5 Hexa Core AMD Ryzen 5 5500U Processor 5th Gen - (8 GB/512 GB SSD/Windows 10 Home) UM425UA-AM502TS Thin and Light Laptop  (14 inch, Lilac Mist, 1.22 kg, With MS Office)|0.0|974
+828|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Inspiron 5418 Thin and Light Laptop  (14 inches, Silver, 1.5 kg, With MS Office)|3.9|803
+829|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop  (14 inches, Silver, 1.56 kg, With MS Office)|4.4|912
+830|DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) INSPIRON 3501 Thin and Light Laptop  (15.6 inch, Softmint, 1.83 kg, With MS Office)|4.2|849
+831|DELL Inspiron Core i5 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10) Inspiron 3501 Thin and Light Laptop  (14.9 Inch, Accent Black, 1.83 KG, With MS Office)|4.1|699
+832|ASUS ASUS TUF Dash Series Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) FX516PM-HN157TS Gaming Laptop  (15.6 inch, Eclipse Grey, 2. kg, With MS Office)|0.0|1112
+833|DELL Inspiron Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10) Inspiron 3501 Thin and Light Laptop  (15.6 inch, Soft Mint, 1.83 kg, With MS Office)|4.4|506
+834|DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10) INSPIRON 3501 Thin and Light Laptop  (15.6 inch, Softmint, 1.83 kg, With MS Office)|4.0|562
+835|HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s-DQ2100TU Thin and Light Laptop  (14 inch, Jet Black, 1.46 kg, With MS Office)|4.2|554
+836|Lenovo Intel EVO Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 82BH004HIN Laptop  (14 inch, Slate Grey, With MS Office)|0.0|1287
+837|Lenovo Yoga Slim 7 Intel EVO Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) Carbon 13ITL5 Thin and Light Laptop  (13.3 inch, Moon White, 0.966 Kg, With MS Office)|3.4|1374
+838|DELL Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10) D560020WIN9S Laptop  (13.3 inch, Silver, With MS Office)|0.0|1187
+839|DELL Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) D560424WIN9S Laptop  (15.6 inch, Soft Mint, With MS Office)|3.9|537
+840|MSI GF63 Thin Core i7 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Max Q/60 Hz) GF63 Thin 10SCXR-1617IN / GF63 Thin 10SC-610IN Gaming Laptop  (15.6 inch, Black, 1.86 KG)|4.3|843
+841|HP 14s Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s- DY2501TU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 kg, With MS Office)|4.4|474
+842|acer Nitro 5 Ryzen 7 Octa Core 5800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) AN515-45/ AN515-45-R2GL Gaming Laptop  (15.6 inch, Black, 2.4 kg)|4.4|1187
+843|ASUS ZenBook Duo 14 (2021) Touch Panel Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/2 GB Graphics) UX482EG-KA711TS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|4.4|1712
+844|ASUS ROG Strix G15 (2020) Core i5 10th Gen - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti) G512LI-HN118TS Gaming Laptop  (15.6 inch, Electro Punk Plastic, 2.30 Kg, With MS Office)|4.5|974
+845|DELL Inspiron Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop  (14 inches, Silver, 1.56 kg, With MS Office)|4.3|787
+846|MSI Prestige 14 EVO Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Prestige 14 Evo A11M-436IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.29 kg)|4.5|1006
+847|HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 15s-EQ2040AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)|4.3|643
+848|ASUS ROG Flow X13 Ryzen 7 Octa Core 5800HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) GV301QH-K6463TS 2 in 1 Gaming Laptop  (13.4 inch, Off Black, 1.30 kg, With MS Office)|4.4|1249
+849|MSI Modern 14 Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MO-092IN Thin and Light Laptop  (14 inch, Carbon Gray, 1.3 Kg)|4.2|887
+850|ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) GV301QH-K5462TS 2 in 1 Gaming Laptop  (13.4 inch, Off Black, 1.30 kg, With MS Office)|4.7|1499
+851|ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) GV301QH-K5062TS 2 in 1 Gaming Laptop  (13.4 inch, Off Black, 1.30 kg, With MS Office)|4.2|1624
+852|Lenovo ThinkPad E15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) E15 Laptop  (15.6 inch, Black, 1.7 kg)|4.4|824
+853|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Inspiron 5518 Thin and Light Laptop  (15.6 inch, Silver, 1.65 kg, With MS Office)|4.5|956
+854|ASUS Intel EVO Zenbook Flip 13 OLED Touch Panel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX363EA-HP502TS 2 in 1 Laptop  (13.3 inch, Pine Grey, 1.30 KG, With MS Office)|3.9|999
+855|ASUS VivoBook 15 Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X515JA-BR381T Thin and Light Laptop  (15.6 inch, Slate Grey, 1.80 kg)|3.7|424
+856|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) FX506LH-HN258T Gaming Laptop  (15.6 Inch, Black Plastic, 2.3 KG)|4.5|749
+857|ASUS Vivobook Gaming Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) F571GT-BN913TS Gaming Laptop  (15.6 inch, Star Black, 2.14 Kg, With MS Office)|4.3|687
+858|ASUS TUF Dash F15 (2021) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) FX516PM-HN156TS Gaming Laptop  (15.6 inch, Moonlight White, 2 KG, With MS Office)|4.4|1093
+859|MSI GP65 Leopard Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 2060/144 Hz) GP65 Leopard 10SEK-830IN Gaming Laptop  (15.6 inch, Black&Silver, 2.33 kg)|4.5|1656
+860|ASUS VivoBook 15 Ryzen 3 Dual Core - (4 GB/256 GB SSD/Windows 10 Home) M515DA-BQ312TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.3|412
+861|HP 14s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- DR2016TU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 KG, With MS Office)|4.2|731
+862|DELL Inspiron Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/Windows 10) Inspiron 3505 Notebook  (15.6 inch, Softmint, 1.83 Kg, With MS Office)|4.1|499
+863|acer Nitro 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) AN515-44/ AN515-44-R9QA / AN515-44-R8VS Gaming Laptop  (15.6 inch, Obsidian Black, 2.3 kg)|4.5|762
+864|DELL Vostro Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10) vostro 3400/vostro 3401 Thin and Light Laptop  (14 inch, Accent Black, 1.58 kg, With MS Office)|4.0|512
+865|HP 14s Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 14s-fq1030AU Thin and Light Laptop  (14 Inch, Natural Silver, 1.46 KG, With MS Office)|4.4|648
+866|DELL Vostro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10/2 GB Graphics) Vostro 3400 Thin and Light Laptop  (14 inch, Dune, 1.58 kg, With MS Office)|4.0|696
+867|HP 15s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 15s-DR3500TX Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 kg, With MS Office)|4.2|762
+868|acer Aspire 5 Ryzen 7 Octa Core 5700U - (8 GB/512 GB SSD/Windows 10 Home) A515-45-R9PX Thin and Light Laptop  (15.6 inch, Silver, 1.76 kg)|0.0|724
+869|acer Aspire 5 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) A515-45-R0HB Thin and Light Laptop  (15.6 inch, Silver, 1.76 kg)|4.3|624
+870|acer Core i7 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) Z2-485 Thin and Light Laptop  (14 inch, Black, 1.8 Kg)|3.9|537
+871|ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) UX482EG-KA521TS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|4.4|1437
+872|HP 15s Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) 15s-eq0500AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 KG, With MS Office)|4.4|674
+873|HP 14s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- DQ2535TU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 KG, With MS Office)|4.3|793
+874|ASUS ZenBook Duo 14 (2021) Touch Panel Intel EVO Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX482EA-KA501TS Thin and Light Laptop  (14 inch, Celestial Blue, 1.62 kg, With MS Office)|4.9|1274
+875|ASUS Ryzen 5 Hexa Core - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) KM513UA-BQ512TS Thin and Light Laptop  (15.6 inch, Indie Black, 1.80 kg, With MS Office)|0.0|938
+876|ASUS Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) K413EA-EB303TS Thin and Light Laptop  (14 inch, Transparent Silver, 1.4 KG, With MS Office)|4.3|587
+877|ASUS Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 10 Home) M515UA-EJ512TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.5|612
+878|acer Predator Helios 300 Octa Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) PH315-53 Gaming Laptop  (15.6 inch, Black, 2.3 kg)|4.5|1249
+879|DELL Inspiron Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) Inspiron 3501 Thin and Light Laptop  (15.6 inch, Softmint, 1.83 kg, With MS Office)|4.1|537
+880|ASUS Zenbook Flip 13 OLED Touch Panel Intel EVO Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX363EA-HP501TS 2 in 1 Laptop  (13.3 inch, Pine Grey, 1.30 kg, With MS Office)|4.3|999
+881|Lenovo ThinkPad E15 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) E15 Laptop  (15.6 inch, Black, 1.7 kg, With MS Office)|4.2|562
+882|Lenovo ThinkPad E15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) E15 Laptop  (15.6 inch, Black, 1.7 kg, With MS Office)|4.4|831
+883|DELL INSPIRON Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) Inspiron 3501 Laptop  (14.96 Inch, Black, With MS Office)|4.0|526
+884|Lenovo Yoga S7 Carbon Core i7 11th Gen - (16 GB/1 TB SSD/Windows 11 Home) Yoga Slim 7 Carbon 13itl5 Thin and Light Laptop  (13.3 inch, Moon White, 0.996 kg, With MS Office)|0.0|1531
+885|HP Chromebook MediaTek Kompanio 500 - (4 GB/64 GB EMMC Storage/Chrome OS) 11A-NA0002MU Chromebook  (11.6 inch, Indigo Blue, 1.07 kg)|3.8|256
+886|acer Nitro 5 Ryzen 5 Hexa Core 5600H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) AN515-45-R3TC Gaming Laptop  (15.6 inch, Black, 2.4 kg)|4.5|1187
+887|DELL Core i5 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) Vostro 14 3400 Laptop  (14 inch, Dune, With MS Office)|0.0|737
+888|Lenovo Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 81VV008TIN Laptop  (14 inch, Platinum Grey, With MS Office)|0.0|737
+889|Lenovo Core i9 10th Gen - (16 GB/1 TB SSD/Windows 10/8 GB Graphics/NVIDIA GeForce RTX 2080 super max-q) 81YU006HIN Gaming Laptop  (15.6 inch, Slate Grey, With MS Office)|0.0|3324
+890|HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15s-FQ2075TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.69 Kg, With MS Office)|4.2|573
+891|Lenovo Core i5 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 520s Laptop  (14 inch, Gold, With MS Office)|0.0|699
+892|Lenovo Yoga 6 Ryzen 7 Octa Core 4700U - (16 GB/512 GB SSD/Windows 10 Home) 13ARE05 2 in 1 Laptop  (13.3 inch, Abyss Blue, 1.32 Kg, With MS Office)|4.5|999
+893|Lenovo IdeaPad Flex 5 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14ITL05 2 in 1 Laptop  (14 inch, Graphite Grey, 1.5 kg, With MS Office)|4.4|1024
+894|MSI Modern 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-423IN Laptop  (14 inch, Carbon Grey, 1.3 kg)|4.5|706
+895|HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-dy3001TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.77 Kg, With MS Office)|4.1|546
+896|HP 14s Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s-dy2500TU Thin and Light Laptop  (14 inch, Jet Black, 1.46 kg, With MS Office)|4.2|474
+897|ASUS Ryzen 3 Dual Core 3250U - (4 GB/256 GB SSD/Windows 10 Home) M515DA-EJ312TSM515D Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 Kg, With MS Office)|4.3|406
+898|Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg, With MS Office)|4.4|1025
+899|ASUS TUF Gaming F15 Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 1660 Ti/144 Hz) FX506LU-HN075T Gaming Laptop  (15.6 inch, Black Plastic, 2.30 kg)|4.9|1037
+900|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FR2006TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 Kg, With MS Office)|4.3|560
+901|HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14-dv0084TX Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)|4.3|937
+902|HP Core i5 11th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) 15s-FQ2071TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.69 kg, With MS Office)|4.3|762
+903|HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FR2006TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.75 Kg, With MS Office)|4.3|611
+904|HP 15s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FQ2535TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)|4.4|754
+905|Lenovo Ideapad Flex 5 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14itl05 2 in 1 Laptop  (14 inch, Graphite Grey, 1.5 kg, With MS Office)|3.5|723
+906|Lenovo IdeaPad Flex 5 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL05 2 in 1 Laptop  (14 inch, Graphite Grey, 1.5 kg, With MS Office)|4.5|674
+907|APPLE 2020 Macbook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MGNA3HN/A  (13.3 inch, Silver, 1.29 kg)|4.7|1287
+908|acer Aspire 7 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-42G Gaming Laptop  (15.6 inch, Black, 2.15 kg)|4.5|687
+909|Lenovo Ideapad Flex 5 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) Ideapad Flex 5 14LT05 UA 2 in 1 Laptop  (14 inch, Graphite Grey, 1.5 kg, With MS Office)|4.4|649
+910|HP Pavilion x360 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dw1037TU 2 in 1 Laptop  (14 inch, Natural Silver, 1.61 kg, With MS Office)|4.3|693
+911|Lenovo Ideapad S 540 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) 540-15IML Thin and Light Laptop  (15.6 inch, Mineral Grey, 1.8 kg, With MS Office)|4.4|760
+912|lenovo Yoga 9 Core i7 11th Gen Intel EVO - (16 GB/1 TB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop  (14 inch, Shadow Black, 1.44 kg, With MS Office)|0.0|2112
+913|HP 430 G8 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Pro) ProBook 430 G8 Business Laptop  (13.3 inch, Pike Silver)|0.0|1175
+914|lenovo Yoga 7 Core i7 11th Gen Intel EVO - (16 GB/512 GB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop  (14 inch, Slate Grey, 1.43 kg, With MS Office)|4.6|1249
+915|Lenovo Legion Y540 Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) Y540-15IRH-PG0 Gaming Laptop  (15.6 inch, Raven Black, 2.3 kg)|4.4|804
+916|DELL Vostro Core i5 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) Vostro 3400 Thin and Light Laptop  (14 inch, Black, 1.58 kg, With MS Office)|3.6|649
+917|DELL Inspiron Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) Inspiron 3501 Laptop  (15 inch, Accent Black, 1.83 kg, With MS Office)|4.4|493
+918|DELL Vostro Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Dune, 1.58 kg, With MS Office)|4.3|474
+919|Mi Notebook Horizon Edition 14 Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) JYU4246IN Thin and Light Laptop  (14 inch, Grey, 1.35 kg)|4.2|749
+920|ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti/60 Hz) FX506LI-BQ057T Gaming Laptop  (15.6 inch, Black Plastic, 2.30 kg)|4.4|799
+921|HP 15s Core i5 11th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 15s-du3060TX Thin and Light Laptop  (15.6 inch, Jet Black, 1.77 kg, With MS Office)|3.6|681
+922|HP Pavilion x360 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14-dw1036TU 2 in 1 Laptop  (14 inch, Natural Silver, 1.61 kg, With MS Office)|4.4|674
+923|DELL Vostro Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) Vostro 3401 Thin and Light Laptop  (14 inch, Black, 1.58 kg, With MS Office)|4.0|512
+924|HP 15s Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 15s-GR0012AU Laptop  (15.6 inch, Natural Silver, 1.82 kg, With MS Office)|4.3|518
+925|ASUS VivoBook 15 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515JA-EJ501T Thin and Light Laptop  (15.6 inch, Slate Grey, 1.80 kg)|4.0|562
+926|ASUS VivoBook 15 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515JA-EJ322TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.0|501
+927|ASUS VivoBook 15 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) X515JA-EJ512TS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)|4.3|637
+928|ASUS VivoBook Flip 14 (2021) Touch Panel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) TP470EZ-EC033TS 2 in 1 Laptop  (14 inch, Transparent Silver, 1.50 kg, With MS Office)|4.2|924
+929|MSI Modern 14 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B10MW-426IN Laptop  (14 inch, Bluestone, 1.3 kg)|4.3|499
+930|HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-du3038TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.77 kg, With MS Office)|4.0|562
+931|MSI Modern 14 Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-424IN Laptop  (14 inch, Carbon Grey, 1.3 kg)|4.4|593
+932|MSI Summit E15 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Pro/4 GB Graphics) Summit E15 A11SCST-272IN Laptop  (15.6 inch, Ink Black, 1.79 kg)|4.0|1937
+933|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) INSP 5406 2in1 2 in 1 Laptop  (14 inch, Titan Grey, 1.72 kg, With MS Office)|4.3|853
+934|DELL Inspiron Core i3 11th Gen - (4 GB/512 GB SSD/Windows 10 Home) Inspiron 5406 2 in 1 Laptop  (14 inch, Silver, 1.72 kg, With MS Office)|4.3|735
+935|DELL XPS Core i5 11th Gen Intel EVO - (8 GB/512 GB SSD/Windows 10 Home) XPS 9310 Thin and Light Laptop  (13.3 inch, Silver, 1.2 kg, With MS Office)|0.0|1449
+936|Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.5|781
+937|DELL INSPIRON 15 3000 Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) 3583 Laptop  (15.6 inch, Silver, Black, 2.2 kg)|4.8|712
+938|HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-du3040TU Thin and Light Laptop  (15.6 inch, Jet Black, 1.77 kg, With MS Office)|3.9|499
+939|Vaio SE Series Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) NP14V1IN004P Thin and Light Laptop  (14 inch, Red Copper, 1.35 kg, With MS Office)|3.9|786
+940|DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Inspiron 7400 Thin and Light Laptop  (14.5 inch, Silver, 1.35 kg, With MS Office)|4.2|1087
+941|acer Predator Triton 300 Core i7 10th Gen - (16 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070 with Max-Q Design) PT315-52 Gaming Laptop  (15.6 inch, Black, 2.1 kg)|3.8|1999
+942|Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti/60 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)|4.3|949
+943|Lenovo Ideapad Slim 3i Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15IIL05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.85 kg, With MS Office)|4.2|625
+944|acer Aspire 3 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) A315-57G Laptop  (15.6 inch, Charcoal Black, 1.9 kg)|3.2|574
+945|ASUS VivoBook Ultra 14 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X413EA-EK302TS Thin and Light Laptop  (14 inch, Bespoke Black, 1.40 kg, With MS Office)|4.3|524
+946|ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X413EA-EK511TS Thin and Light Laptop  (14 inch, Cobalt Blue, 1.40 kg, With MS Office)|4.4|749
+947|Vaio E Series Ryzen 7 Quad Core 3700U - (8 GB/512 GB SSD/Windows 10 Home) NE15V2IN027P Thin and Light Laptop  (15.6 inch, Silver, 1.77 kg, With MS Office)|3.7|724
+948|APPLE 2020 Macbook Pro M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MYDC2HN/A  (13.3 inch, Silver, 1.4 kg)|4.6|1599
+949|APPLE 2020 Macbook Pro M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MYD82HN/A  (13.3 inch, Space Grey, 1.4 kg)|4.7|1349
+950|Vaio E Series Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) NE15V2IN006P Thin and Light Laptop  (15.6 inch, Black, 1.77 kg, With MS Office)|4.1|619
+951|APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg)|4.7|1099
+952|Vaio E Series Ryzen 7 Quad Core 3700U - (8 GB/512 GB SSD/Windows 10 Home) NE15V2IN026P Thin and Light Laptop  (15.6 inch, Black, 1.77 kg, With MS Office)|3.7|712
+953|Vaio E Series Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) NE15V2IN007P Thin and Light Laptop  (15.6 inch, Silver, 1.77 kg, With MS Office)|4.1|637
+954|APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGND3HN/A  (13.3 inch, Gold, 1.29 kg)|4.7|1099
+955|APPLE 2020 Macbook Pro M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MYDA2HN/A  (13.3 inch, Silver, 1.4 kg)|4.7|1349
+956|APPLE 2020 Macbook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MGN73HN/A  (13.3 inch, Space Grey, 1.29 kg)|4.7|1312
+957|APPLE 2020 Macbook Pro M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MYD92HN/A  (13.3 inch, Space Grey, 1.4 kg)|4.6|1599
+958|Lenovo Ideapad Slim 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light Laptop  (14 inch, Graphite Grey, 1.39 kg, With MS Office)|4.4|687
+959|acer Aspire 7 Ryzen 5 Quad Core 3550H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti) A715-41G-R7YZ Gaming Laptop  (15.6 inch, Charcoal Black, 2.15 kg)|4.5|649
+960|acer Aspire 7 Ryzen 5 Quad Core 3550H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti) A715-41G-R7YZ Gaming Laptop  (15.6 inch, Charcoal Black, 2.15 kg)|4.5|649
+961|acer Swift 5 Core i7 11th Gen Intel EVO - (16 GB/1 TB SSD/Windows 10 Home) SF514-55TA-72VG Thin and Light Laptop  (14 inch, Mist Green, 1.05 kg)|4.3|1164
+962|Lenovo Yoga C640 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) C640-13IML 2 in 1 Laptop  (13.6 inch, Iron Grey, 1.35 kg, With MS Office)|4.3|824
+963|Lenovo Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) IdeaPad S340 Thin and Light Laptop  (14 inch, Platinum Grey, 1.60 kg, With MS Office)|0.0|762
+964|DELL Inspiron Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) Inspiron 3501 Laptop  (15.6 inch, Softmint, 1.83 kg, With MS Office)|4.1|531
+965|acer Predator Helios 300 Core i7 10th Gen - (16 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070 with Max-Q Design/240 Hz) PH315-53-7739 Gaming Laptop  (15.6 inch, Abyssal Black, 2.5 kg)|4.8|1881
+966|Lenovo Core i7 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX GTX 1650Ti) 82AU004RIN Gaming Laptop  (15.6 inch, Phantom Black)|0.0|1221
+967|DELL Latitude Core i5 10th Gen - (8 GB/512 GB SSD/Ubuntu) 3410 Business Laptop  (14 inch, Black, 1.8 kg)|2.0|900
+968|Lenovo Ideapad S145 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) S145-15IKB Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.85 kg, With MS Office)|4.0|387
+969|Lenovo Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Pro/2 GB Graphics) Thinkpad P43s Thin and Light Laptop  (14 inch, Black, 1.55 kg)|0.0|3060
+970|Lenovo Core i7 9th Gen - (16 GB/1 TB SSD/Windows 10 Pro/4 GB Graphics) Thinkpad P53 Thin and Light Laptop  (15.6 inch, Black, 2.5 kg)|0.0|3400
+971|HP 250 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10) 250 G7 Business Laptop  (15.6 inch, Grey)|3.0|606
+972|Lenovo Core i5 8th Gen - (4 GB/1 TB HDD/DOS) V330 Thin and Light Laptop  (14 inch, Grey)|0.0|626
+973|ASUS ExpertBook P2 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Pro/2 GB Graphics) ExpertBook P2 P2451FB Thin and Light Laptop  (14 inch, Star Black, 1.60 kg)|0.0|1087
+974|Lenovo Ideapad S340 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S340-14IIL Thin and Light Laptop  (14 inch, Platinum Grey, 1.6 kg, With MS Office)|4.2|737
+975|Mi Notebook Horizon Edition 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) JYU4245IN Thin and Light Laptop  (14 inch, Grey, 1.35 kg)|4.3|687
+976|ASUS VivoBook 14 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) X412FA-EK296T Thin and Light Laptop  (14 inch, Orange, Black, 1.5 kg)|4.5|671
+977|Lenovo Yoga Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home) Yoga S940-14IIL Thin and Light Laptop  (14 inch, Grey, Black, 1.25 kg)|2.5|1787
+978|Lenovo Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Pro) ThinkPad X1 Carbon Thin and Light Laptop  (14 inch, Black, 1.09 kg)|0.0|2684
+979|Nokia PureBook X14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) NKi510UL85S Thin and Light Laptop  (14 inch, Black, 1.1 kg)|4.4|674
+980|HP Spectre Folio Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-ak1004TU 2 in 1 Laptop  (13.3 inch, Cognac Brown, 1.49 kg, With MS Office)|0.0|2996
+981|HP Envy x360 Ryzen 5 Hexa Core 4500U - (8 GB/512 GB SSD/Windows 10 Pro) 13-ay0078AU 2 in 1 Laptop  (13.3 inch, Nightfall Black, 1.32 kg, With MS Office)|0.0|1069
+982|HP 14a Celeron Dual Core - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na0002TU Chromebook  (14 inch, Ceramic White, 1.46 kg)|3.6|337
+983|Lenovo Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Pro) V14 Laptop  (14 inch, Black, 1.6 kg)|3.1|557

@@ -1,0 +1,20 @@
+{% extends 'homepage/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="blog-slider" style="margin-top: 150px;height: 600px;">
+    <div class="blog-slider__wrp swiper-wrapper">
+          <div class="blog-slider__item swiper-slide">
+            <div class="blog-slider__img"><img src="{{ laptopo.images.url }}"></div>
+            <div class="blog-slider__content"><span class="blog-slider__code">Are you sure you want to delete the post <b>{{ laptopo.name }}</b><br>with ratings {{ laptopo.rating }}</span>
+              <form id = "delete_blog"  method = "POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                  <button type="submit" class="btn btn-outline-danger mt-3 ">Yes</button>
+                  <a class="btn btn-outline-primary mt-3" href="{% url 'laptop-details' laptopo.laptop_id %}" role="button">Cancel</a>
+              </form>
+          </div>
+
+    </div>
+    <div class="blog-slider__pagination"></div>
+</div>
+{% endblock %}
