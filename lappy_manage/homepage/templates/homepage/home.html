@@ -17,13 +17,14 @@
                   <div class="card-body p-4"><img src="{{ laptop.images.url }}" alt="" class="img-fluid d-block mx-auto mb-3">
                       <h5 style = "text-overflow: ellipsis; "> <a href="{% url 'laptop-details' laptop.laptop_id %}" class="text-dark">{{ laptop.name|truncatechars:100 }}</a></h5>
                       <p class="small text-muted font-italic"><b>Price: ${{ laptop.price }}</b></p>
-                      <ul class="list-inline small">
+                      <p class="small text-muted font-italic"><b>Rating: {{ laptop.rating }}/5.0</b></p>
+                      <!-- <ul class="list-inline small">
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star-o text-success"></i></li>
-                      </ul>
+                      </ul> -->
                   </div>
               </div>
             </div>
@@ -34,19 +35,16 @@
 
         <!-- Second Row [Team]-->
         <h2 class="font-weight-bold mb-2">Our Team</h2>
-        <p class="font-italic text-muted mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt.</p>
 
         <div class="row pb-5 mb-4">
             <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
                 <!-- Card-->
                 <div class="card shadow-sm border-0 rounded">
                     <div class="card-body p-0"><img
-                            src="https://res.cloudinary.com/mhmd/image/upload/v1570799922/profile-1_dewapk.jpg"
+                            src="media\nia.jpg"
                             alt="" class="w-100 card-img-top">
                         <div class="p-4">
-                            <h5 class="mb-0">Mark Rockwell</h5>
-                            <p class="small text-muted">CEO - Consultant</p>
+                            <h5 class="mb-0">Jignesh Nagda</h5>
                             <ul class="social mb-0 list-inline mt-3">
                                 <li class="list-inline-item m-0"><a href="#" class="social-link"><i
                                             class="fa fa-facebook-f"></i></a></li>
@@ -66,11 +64,10 @@
                 <!-- Card-->
                 <div class="card shadow-sm border-0 rounded">
                     <div class="card-body p-0"><img
-                            src="https://res.cloudinary.com/mhmd/image/upload/v1570799922/profile-3_ybnq8v.jpg"
+                            src="media\nia.jpg"
                             alt="" class="w-100 card-img-top">
                         <div class="p-4">
-                            <h5 class="mb-0">Mark Rockwell</h5>
-                            <p class="small text-muted">CEO - Consultant</p>
+                            <h5 class="mb-0">Dinesh Mannari</h5>
                             <ul class="social mb-0 list-inline mt-3">
                                 <li class="list-inline-item m-0"><a href="#" class="social-link"><i
                                             class="fa fa-facebook-f"></i></a></li>
@@ -90,35 +87,10 @@
                 <!-- Card-->
                 <div class="card shadow-sm border-0 rounded">
                     <div class="card-body p-0"><img
-                            src="https://res.cloudinary.com/mhmd/image/upload/v1570799924/profile-4_s3fort.jpg"
+                            src="media\nia.jpg"
                             alt="" class="w-100 card-img-top">
                         <div class="p-4">
-                            <h5 class="mb-0">Mark Rockwell</h5>
-                            <p class="small text-muted">CEO - Consultant</p>
-                            <ul class="social mb-0 list-inline mt-3">
-                                <li class="list-inline-item m-0"><a href="#" class="social-link"><i
-                                            class="fa fa-facebook-f"></i></a></li>
-                                <li class="list-inline-item m-0"><a href="#" class="social-link"><i
-                                            class="fa fa-twitter"></i></a></li>
-                                <li class="list-inline-item m-0"><a href="#" class="social-link"><i
-                                            class="fa fa-instagram"></i></a></li>
-                                <li class="list-inline-item m-0"><a href="#" class="social-link"><i
-                                            class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
-                <!-- Card-->
-                <div class="card shadow-sm border-0 rounded">
-                    <div class="card-body p-0"><img
-                            src="https://res.cloudinary.com/mhmd/image/upload/v1570799922/profile-2_ujssbj.jpg"
-                            alt="" class="w-100 card-img-top">
-                        <div class="p-4">
-                            <h5 class="mb-0">Mark Rockwell</h5>
-                            <p class="small text-muted">CEO - Consultant</p>
+                            <h5 class="mb-0">Chinmay Lotankar</h5>
                             <ul class="social mb-0 list-inline mt-3">
                                 <li class="list-inline-item m-0"><a href="#" class="social-link"><i
                                             class="fa fa-facebook-f"></i></a></li>
@@ -139,6 +111,33 @@
 
 
         <!-- First Row [Statistics]-->
+        <h2 class="font-weight-bold mb-2">About Lappy-Manage</h2>
+        <div class="row pb-5 mb-4">
+            <p>
+                Lappy-Manage is a user-friendly application that aims to assist individuals in making informed decisions when purchasing laptops. 
+                It provides various parameters that users can consider before selecting a laptop, including but not limited to, the processor type, RAM size, storage capacity, 
+                and graphics card.</p>
+            <p>
+                The primary goal of Lappy-Manage is to create a seamless user experience by presenting laptop details in a concise yet comprehensive manner. 
+                This enables users to quickly scan through important information about the laptops they are interested in.
+            </p>
+            <p>
+                Furthermore, Lappy-Manage aims to offer a convenient comparison tool that enables users to compare different laptops side by side. 
+                This allows users to assess which laptop model would best meet their needs and requirements based on specific features and performance metrics.
+            </p> 
+            <p>
+                To ensure that users are presented with the most up-to-date information, the Lappy-Manage dataset is frequently updated by our team of administrators. 
+                This guarantees that users can select from the latest and most advanced technological offerings available in the market.
+            </p>
+            <p>
+                In a nutshell, Lappy-Manage provides a user-friendly and comprehensive solution for individuals seeking to purchase a laptop. 
+                By providing a range of parameters, users can confidently choose a laptop that best suits their needs, without being overwhelmed by technical specifications.
+            </p>
+                
+                
+            
+            
+        </div>
     </div>
 </div><!-- End: Bootstrap Cards v2 -->
 {% endblock %}

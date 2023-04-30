@@ -14,7 +14,7 @@ from .forms import UserRegistrationForm, LaptopDForm, AddLaptopO, AddLaptopD
 from django.core.paginator import Paginator
 
 def home(request):
-    laptopo = LaptopO.objects.all().order_by('laptop_id')[:12]
+    laptopo = LaptopO.objects.all().order_by('-laptop_id')[:12]
     context = {
          'laptopo': laptopo,
      }
@@ -37,7 +37,7 @@ def explore(request):
         page_number = request.GET.get("page")
         page_obj = paginator.get_page(page_number)
     except:
-        laptopo = LaptopO.objects.all()
+        laptopo = LaptopO.objects.all().order_by('-laptop_id')
         paginator = Paginator(laptopo, 20)  # Show 25 contacts per page.
         page_number = request.GET.get("page")
         page_obj = paginator.get_page(page_number)

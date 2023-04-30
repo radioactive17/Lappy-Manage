@@ -47,13 +47,14 @@
                           class="img-fluid d-block mx-auto mb-3">
                       <h5> <a href="{% url 'laptop-details' laptop.laptop_id %}" class="text-dark">{{ laptop.name|truncatechars:150 }}</a></h5>
                       <p class="small text-muted font-italic"><b>Price: ${{ laptop.price }}</b></p>
-                      <ul class="list-inline small">
+                      <p class="small text-muted font-italic"><b>Rating: {{ laptop.rating }}/5.0</b></p>
+                      <!-- <ul class="list-inline small">
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                           <li class="list-inline-item m-0"><i class="fa fa-star-o text-success"></i></li>
-                      </ul>
+                      </ul> -->
                   </div>
               </div>
             </div>
