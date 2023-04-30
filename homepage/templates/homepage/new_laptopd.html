@@ -1,0 +1,20 @@
+{% extends 'homepage/base.html' %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    <div class="blog-slider" style="margin-top: 150px;height: 1550px;">
+        <div class="blog-slider__wrp swiper-wrapper">
+            <div class="blog-slider__text">
+                <div class="blog-slider__title">
+                    <p>Add Laptop Data</p>
+                </div>
+                <form id = "create_blog"  method = "POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <button type="submit" class="btn btn-primary mt-4">Add</button>
+                    <a class="btn btn-danger mt-4" href="{% url 'explore' %}" role="button">Cancel</a>
+                </form>  
+            </div>
+        </div>
+    </div>
+{% endblock %}

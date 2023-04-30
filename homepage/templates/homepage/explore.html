@@ -1,0 +1,90 @@
+{% extends 'homepage/base.html' %}
+
+{% block content %}
+
+
+  <div class="bootstrap_cards2">
+    <div class="container py-5">
+        <header class="text-center mb-5">
+            <h1 class="display-4 font-weight-bold">The Latest Tech Taking the Market by Storm</h1>
+        </header>
+        <!-- Search bar --><!--Code referred from https://mdbootstrap.com/docs/standard/forms/search/-->
+        <div class="input-group mt-2 mb-4" style="width:500px; margin-left: 825px;">
+          <!-- <form method = "GET" enctype="multipart/form-data">
+            <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" name = "search" value="{{request.GET.name}}">
+            <button type="button" class="btn btn-outline-dark">search</button>
+          </form> -->
+
+            
+            
+            
+  
+          
+          <form action=""> 
+            <div style="display:flex;">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Filter by
+              </button>
+              <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <li><a class="dropdown-item" href="?sort=l2h">Low price</a></li>
+                <li><a class="dropdown-item" href="?sort=h2l">High Price</a></li>
+                <li><a class="dropdown-item" href="?sort=rating">Ratings</a></li>
+              </ul>
+              <input class="form-control rounded ml-4" type="text" name="search" placeholder="Search by name" style="width:300px;" value="{{request.GET.name}}">
+              <input type="submit" class="btn btn-outline-dark" value="Search">
+            </div>
+        </form>
+          
+        </div>
+        <!-- Search bar -->
+        <div class="row pb-5 mb-4">
+          {% for laptop in page_obj %}
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+              <!-- Card-->
+              <div class="card rounded shadow-sm border-0">
+                  <div class="card-body p-4"><img
+                          src="{{ laptop.images.url }}" alt=""
+                          class="img-fluid d-block mx-auto mb-3">
+                      <h5> <a href="{% url 'laptop-details' laptop.laptop_id %}" class="text-dark">{{ laptop.name|truncatechars:150 }}</a></h5>
+                      <p class="small text-muted font-italic"><b>Price: ${{ laptop.price }}</b></p>
+                      <ul class="list-inline small">
+                          <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                          <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                          <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                          <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                          <li class="list-inline-item m-0"><i class="fa fa-star-o text-success"></i></li>
+                      </ul>
+                  </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+        <div class="pagination">
+          <span class="step-links">
+            <!--This code is referenced from Corey Schafer (https://github.com/CoreyMSchafer/code_snippets/blob/master/Django_Blog/11-Pagination/django_project/blog/templates/blog/user_posts.html)-->
+              {% if page_obj.has_previous %}
+                <a class="btn btn-outline-dark mb-4" href="?page=1">First</a>
+                <a class="btn btn-outline-dark mb-4" href="?page={{ page_obj.previous_page_number }}">Previous</a>
+              {% endif %}
+              
+              {% for num in page_obj.paginator.page_range %}
+                {% if page_obj.number == num %}
+                  <a class="btn btn-dark mb-4" href="?page={{ num }}">{{ num }}</a>
+                {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                  <a class="btn btn-outline-dark mb-4" href="?page={{ num }}">{{ num }}</a>
+                {% endif %}
+              {% endfor %} 
+
+              <!-- <span class="current">
+                  Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}.
+              </span> -->
+      
+              {% if page_obj.has_next %}
+                <a class="btn btn-outline-dark mb-4" href="?page={{ page_obj.next_page_number }}">Next</a>
+                <a class="btn btn-outline-dark mb-4" href="?page={{ page_obj.paginator.num_pages }}">Last</a>
+              {% endif %}
+          </span>
+      </div>
+    </div>
+</div>
+{% endblock %}

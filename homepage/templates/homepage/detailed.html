@@ -1,0 +1,53 @@
+{% extends 'homepage/base.html' %}
+
+{% block content %}
+    <div class="blog-slider" style="margin-top: 50px; height: 1050px;">
+        <div class="blog-slider__wrp swiper-wrapper">
+            <div class="blog-slider__text">
+                <div class="blog-slider__title">
+                    <p>{{ laptopo.name }}</p>
+                </div>
+                <p><b>Price: </b>{{ laptopo.price }}</p>
+                <p><b>Accessories: </b>{{ laptopd.accessories }}</p>
+                <p><b>Model Number: </b>{{ laptopd.model_number }}</p>
+                <p><b>Series: </b>{{ laptopd.series }}</p>
+                <p><b>Color: </b>{{ laptopd.color }}</p>
+                <p><b>Type: </b>{{ laptopd.type_of_laptop }}</p>
+                <p><b>Suitable for: </b>{{ laptopd.suitable_for }}</p>
+                <p><b>Power: </b>{{ laptopd.power }}</p>
+                <p><b>Graphics Memory Type: </b>{{ laptopd.graphics_memory_type }}</p>
+                <p><b>Graphics Memory Capacity: </b>{{ laptopd.graphics_memory_capacity }}</p>
+                <p><b>Processor Name: </b>{{ laptopd.processor_name }}</p>
+                <p><b>Processor Generation: </b>{{ laptopd.processor_generation }}</p>
+                <p><b>SSD: </b>{{ laptopd.ssd }}</p>
+                <p><b>SSD Capacity: </b>{{ laptopd.ssd_capacity }}</p>
+                <p><b>RAM: </b>{{ laptopd.ram }}</p>
+                <p><b>RAM type: </b>{{ laptopd.ram_type }}</p>
+                <p><b>Clock Speed: </b>{{ laptopd.clock_speed }}</p>
+                <p><b>Expandable Memory: </b>{{ laptopd.expandable_memory }}</p>
+                <p><b>Graphics Processor: </b>{{ laptopd.graphics_processor }}</p>
+                <p><b>Number of Cores: </b>{{ laptopd.number_of_cores }}</p>
+                <p><b>Rating: </b>{{ laptopo.rating }}/5.0</p>
+                {% if user.is_superuser %}
+                    <a class="btn btn-primary mt-3" href="{% url 'update1-laptop' laptopo.laptop_id %}" role="button">Update</a>
+                    <a class="btn btn-danger mt-3" href="{% url 'delete-laptop' laptopo.laptop_id %}" role="button">Delete</a>
+                {% endif %}
+            </div>
+            
+            
+            
+            <!-- <div class="blog-slider__item swiper-slide" >
+                <div class="blog-slider__content"><span class="blog-slider__code">26 December 2019</span>
+                    <div class="blog-slider__title">
+                        <p>{{ laptopo.name }}</p>
+                    </div>
+                    
+                </div>
+            </div> -->
+            
+        </div>
+        <!-- <div class="blog-slider__pagination"></div> -->
+    </div>
+{% endblock %}
+    
+    
