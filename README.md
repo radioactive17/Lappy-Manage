@@ -59,4 +59,4 @@ If you run into errors. Please look online for solutions
 
 
 ## Developers
-Jignesh Nagda | Chinmay Lotankar | Dinesh Mannari
+### Jignesh Nagda | Chinmay Lotankar | Dinesh Mannari
