@@ -15,14 +15,14 @@ Following are the steps to setup your database for PostgreSQL.
 2. Change the settings.py file in lappy_manage directory accordingly. 
 ```python
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Lappy',
-        'USER': 'your username',
-        'PASSWORD': 'your password',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
-    }
+   'default': {
+       'ENGINE': 'django.db.backends.postgresql',
+       'NAME': 'Lappy',
+       'USER': os.environ.get('DB_USER'),
+       'PASSWORD': os.environ.get('DB_PASS'),
+       'HOST': '127.0.0.1',
+       'PORT': '5432',
+   }
 }
 ```
 Note: Different Databases require differnet setup. Pleae setup your database accordingly.
