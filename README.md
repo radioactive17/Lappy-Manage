@@ -47,7 +47,7 @@ python manage.py runserver
 ```
 If everything went smoothly, you should see the below screen.   
   
-![cmd](readme images/cmd.png)
+<img src="readme images/cmd.png" width="750">
 
 If you run into errors. Please look online for solutions
 
