@@ -2,6 +2,43 @@
   
 Lappy-Manage provides a user-friendly and comprehensive solution for individuals seeking to purchase a laptop. By providing a range of parameters, users can confidently choose a laptop that best suits their needs, without being overwhelmed by technical specifications.
 
+## Install Dependencies
+Go to the directory containing requirements.txt 
+```bash
+pip install -r requirements.txt
+```
+
+## Setup Database
+You code wont be executed until you set up your database.
+Following are the steps to setup your database for PostgreSQL. 
+1. Create a database named Lappy in the PostgreSQL
+2. Change the settings.py file in lappy_manage directory accordingly. 
+```python
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'Lappy',
+        'USER': 'your username',
+        'PASSWORD': 'your password',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
+    }
+}
+```
+Note: Different Databases require differnet setup. Pleae setup your database accordingly.
+
+## Run the program
+After installing the dependencies and setting up the database you should be good to go and execute the program.  
+Make sure you are in the directory containing manage.py file and Run the following command line to bring up the sever 
+```bash
+python manage.py runserver
+```
+If everything went smoothly, you should see the below screen.   
+  
+![cmd](https://github.com/radioactive17/Cricbee/blob/main/Readme%20images/cmd.png?raw=true)
+
+If you run into errors. Please look online for solutions
+
 ## Few Snippets of the application
 <img src="readme images/fig1.png" width="750">
 <img src="readme images/fig2.png" width="750">
